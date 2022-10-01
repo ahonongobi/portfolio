@@ -18,10 +18,10 @@
         <img src="https://mohamedelghandour.github.io/windows-10/img/thumb_14339670430This_PC.png" class="img-responsive">
         <p>This PC</p>
     </div>
+    
     <div class="main">
     
-    <div class="input-wrap"><input id="searchbar" type="search" placeholder="Search a file..." /><i class="fa fa-search" aria-hidden="true"></i></div>
-    <div class="left">
+    <div  class="left">
       <div class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="folder1"><i class="fa fa-folder" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i><p>Folder 1</p></div>
       <div class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="folder2"><i class="fa fa-folder" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i><p>Folder 2</p></div>
       <div class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="folder3"><i class="fa fa-folder" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i><p>Folder 3</p></div>
@@ -29,6 +29,9 @@
       <div class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="folder5"><i class="fa fa-folder" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i><p>Folder 5</p></div>
     </div>
   </div>
+
+  
+
 
     <section class="option-box">
         <div class="color-box">
@@ -38,7 +41,7 @@
                         <source src="img/myExplain_2.ogg" type="video/ogg">
                         Your browser does not support the video tag.
                 </video>-->
-            <div style="position:relative;height:0;padding-bottom:56.25%;width: 400px;"><iframe src="https://www.youtube.com/embed/VUPtvK28fhY?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="640" height="360" frameborder="0" allowfullscreen></iframe></div>
+            <div style="position:relative;height:0;padding-bottom:56.25%;width: 400px; d-none"><iframe src="https://www.youtube.com/embed/VUPtvK28fhY?ecver=22" style="position:absolute;width:100%;height:100%;left:0" width="640" height="360" frameborder="0" allowfullscreen></iframe></div>
             <a class="btn btn-primary center-block text-center" onclick="openabout()">About Me</a>
         </div>
         <i class="fa fa-gear fa-3x gear-check"></i>
@@ -407,8 +410,9 @@
     </div>
 
 
-    <div class="about-overlay" id="about-overlay">
-        <div class="fluid-container">
+    <div  class="about-overlay" id="about-overlay">
+    
+        <div style="" class="fluid-container">
             <div class="first-row-img">
                 <span class="center-text head-over">Info about me</span>
                 <div class="right">
@@ -418,13 +422,15 @@
             </div>
             <div class="second-row-abo">
                 <div>
-                    <img src="https://mohamedelghandour.github.io/windows-10/img/profile.png" class="img-responsive" alt="">
+                    <img src="http://localhost/intelligencia-si/assets/img/team/pp.jpeg" class="img-responsive" alt="">
                     <p>
-                        Hi, My name is Mohamed El Ghandour From Egypt :( . <br> I'am 17 Years old. <br> I'am a Programmer web (Front End). <br> My Number: 20+ <mark>01061578345</mark>. <br> And you can Call Me From <a href="https://goo.gl/B56o1U">Here</a> <br>                        I love computer, technology and programming <br> I was learning programming languages. <br> The best language for me is JavaScript. <br> I use Javascript instead of jQuery. <br> That's why I'm strong in Javascript.
-                        <br> The most loved thing in programming is often the challenge. <br> I am capable of Html, Html 5, Css, Css3, Javascript <br> Thanks for your time <br>
+                    I am  Gobi abyssinie Ahonon, a fullstack developer specializing in web design, multiplatform mobile applications (android, iOS, microsoft ..), and desktops applications. i have a very big passion for code and i'm always looking to improve my skills. for all your projects, relating to these skills, I am the best candidate for you. the one that will boost your business or your reputation with customers or users. <br> <br>
+                    Laravel consultant, I have a great background in reactjs, react native, php, css, html, dart, flutter, Java EE, Java Android, Ruby on rails, Scala, jquery, Ajax, use of git, Linux. indeed, you can judge for yourself by contacting him via my email address mentioned below, or either take a look at some of my projects done. Best regard, your software engineer. <br> <br>
+                    <a href="mailto:contact@gobi-abyssinie.tech">👉 Send me message</a>
                     </p>
                 </div>
             </div>
+            
         </div>
     </div>
 

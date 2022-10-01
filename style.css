@@ -1,3 +1,14 @@
+:root {
+    --main-bg-color: #444757;
+    --folder-size: 120px;
+    --folder-size-open: 400px;
+    --folder-color: #1D1E22;
+    --folder-color-open: #191919;
+    --folder-radius: 8px;
+    --folder-shadow: 3px 5px 5px 0px rgb(37 37 37 / 75%);
+    --folder-button-size: 15px;
+  }
+
 body {
     overflow: hidden;
 }
@@ -201,7 +212,7 @@ footer.footer .right i {
 }
 
 .start-window .fluid-container {
-    padding-top: 530px;
+    padding-top: 300px;
     -webkit-transition: all .1s ease-in-out;
     -moz-transition: all .1s ease-in-out;
     transition: all .1s ease-in-out;
@@ -599,12 +610,13 @@ body {
 
 .about-overlay {
     position: absolute;
-    width: 100%;
+    width: 50%;
     margin: auto;
-    height: 100vh;
+    height: 90%;
     top: 0;
     left: 0;
-    z-index: 1;
+    margin-left: 10%;
+    z-index: 9999;
     background-color: #111;
     padding-bottom: 40px;
     color: #fff;
@@ -1009,3 +1021,5 @@ body {
   .ui-draggable-dragging {
     z-index: 999;
   }
+
+  
