@@ -509,7 +509,7 @@ mark {
     padding-bottom: 40px;
     color: #fff;
     transition: all .5s ease-in-out;
-    overflow: hidden;
+    overflow: auto;
     transform: scale(0);
 }
 

@@ -35,11 +35,11 @@
         </div>
 
 
-        <div class="main">
-
+        <div  class="main">
+           <!-- the last i did  ondblclick="opencom0()" -->
             <div class="left">
-                <div ondblclick="opencom0()" class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="folder1"><i class="fa fa-folder" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i>
-                    <p>Mon cv</p>
+                <div ondblclick="opennote()"  class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="folder1"><i class="fa fa-folder" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i>
+                    <p>My cv</p>
                 </div>
                 <div ondblclick="openimg()" class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="folder2"><i class="fa fa-folder" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i>
                     <p>My Projects</p>
@@ -263,7 +263,7 @@
                             </div>
                             <div class="col-xs-2 folders text-center" ondblclick="opennote()">
                                 <p class="contain"><img src="https://mohamedelghandour.github.io/windows-10/img/if_sticky-note_299111.png" class="img-responsive  center-block" alt=""></p>
-                                <span>Note</span>
+                                <span>My cv</span>
                             </div>
                             <div class="col-xs-2 folders text-center">
                                 <p class="contain"><img src="https://mohamedelghandour.github.io/windows-10/img/if_folder-blue_285658.svg" class="img-responsive  center-block" style="height: 64px;" alt=""></p>
@@ -519,14 +519,195 @@
         <div class="note-overlay" id="note-overlay">
             <div class="fluid-container">
                 <div class="first-row-note">
-                    <span class="center-text head-over">My Note</span>
+                    <span class="center-text head-over">CV</span>
                     <div class="right">
                         <i class="fa fa-times" onclick="closenote()"></i>
+                    </div>
+                    <div class="container">
+                        <!--Professional Background-->
+                        <!-- Personal Information -->
+                        <h2>Personal Information</h2>
+                        <table>
+                            <tr>
+                                <th>Name</th>
+                                <td>Ahonon Gobi Parfait</td>
+                            </tr>
+                            <tr>
+                                <th>Address/Country</th>
+                                <td>Cotonou, Bénin. BP 226, Lokossa, Benin</td>
+                            </tr>
+                            <tr>
+                                <th>Tel</th>
+                                <td>+229 54030381</td>
+                            </tr>
+                            <tr>
+                                <th>Email</th>
+                                <td><a href="mailto:abyssiniea@email.com">abyssiniea@email.com</a></td>
+                            </tr>
+                        </table>
+                        <!-- Education -->
+                        <h2>Education</h2>
+                        <table>
+                            <tr>
+                                <th>Year</th>
+                                <th>Degree or Certificate</th>
+                            </tr>
+                            <tr>
+                                <td>2022</td>
+                                <td>Online data Science Mathematics Certifcate, Great Learning</td>
+                            </tr>
+                            <tr>
+                                <td>2018-2021</td>
+                                <td>Bachelor, computer science(Semester 1-4 Common Core) - Software engineering(semester 5 and 6), IFRI UAC <a href="https://flipbookpdf.net/web/site/fa90dd09e7e13703b5ddfb55865e0d44227624ee202212.pdf.html">click to see Relevant Courses</a></td>
+                            </tr>
+                            <tr>
+                                <td>2017-2018</td>
+                                <td>Physical and Chemical Sciences, Faculty of Science and Technology, UAC</td>
+                            </tr>
+                            <tr>
+                                <td>2009-2016</td>
+                                <td>General Education College, Maths and Physics, CEG AZOVE</td>
+                            </tr>
+                        </table>
+                        <!-- Works background -->
+                        <h2>Works background</h2>
+                        <table>
+                            <tr>
+                                <th>Year</th>
+                                <th>Position, Company Name and Achievement</th>
+                            </tr>
+                            <tr>
+                                <td>2022-Present</td>
+                                <td>
+                                    <ul>
+                                        <li>CTO and Lead Developer at INTELLIGENCIA SI (since 2022)</li>
+                                        <li>Designed web and mobile platforms for online learning, e-commerce, and product showcasing.</li>
+                                        <li>Directed IT projects, including the design and implementation of <a href="https://eliostrategy.com">https://eliostrategy.com</a>, <a href="https://cvscan.uk/fr/">https://cvscan.uk/fr/</a>, and <a href="https://aplahoue-tourisme.com">https://aplahoue-tourisme.com</a>.</li>
+                                        <li>Configured remote servers to store, manage, and process data.</li>
+                                        <li>Developed an automatic detection system for stolen electrical objects using communicating chips and artificial intelligence software.</li>
+                                    </ul>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>2021-2022</td>
+                                <td>
+                                    <ul>
+                                        <li>Application Developer at MASTERCARD FOUNDATION (2021-2022)</li>
+                                        <li>Secured a one-year internship at MASTERCARD FOUNDATION after winning a web and mobile application development competition for the dissemination of professional opportunities for students in Benin.</li>
+                                        <li>Designed and developed a web and mobile platform for the dissemination of professional opportunities at the University of Abomey-Calavi, which can be found at <a href="https://jobs.uac.bj">https://jobs.uac.bj</a>.</li>
+                                        <li>Conducted unit and functional testing of the system developed for student registrations at uac.bj.</li>
+                                    </ul>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>2020-Today</td>
+                                <td>
+                                    <ul>
+                                        <li>Full-stack Web and Mobile Developer at LEMES TECHNOLOGY, Telecommuting</li>
+                                        <li>Designed web and mobile platforms for e-learning, e-commerce, and product showcasing.</li>
+                                        <li>Developed management software for desktop imaging and image processing using C-Sharp.</li>
+                                    </ul>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>2019-Present</td>
+                                <td>
+                                    <ul>
+                                        <li>Freelance Web Developer, ComeUp (2019 - Present)</li>
+                                        <li>Started freelancing as a web developer during my first year of studies in computer science, driven by my passion for web development.</li>
+                                        <li>Designed and developed websites and web applications for various clients, including small businesses and startups.</li>
+                                        <li>Collaborated with clients to gather requirements, design user interfaces, and develop custom features.</li>
+                                        <li>Managed multiple projects simultaneously and met project deadlines.</li>
+                                    </ul>
+                                </td>
+                            </tr>
+                        </table>
+
+                        <section>
+                            <h2>Projects</h2>
+                            <ul>
+                                <li>
+                                    <h3>Name: Job platform</h3>
+                                    <p>Description: Created a web and mobile app using Laravel, NodeJS, and Docker to connect students in Benin with scholarships and internships. As a full-stack developer, I built and implemented features including user authentication, search functionality, and external API integration. App has helped over 2000 students find educational opportunities.</p>
+                                    <p>Technologies used: Laravel, NodeJS, Docker</p>
+                                    <p>URL: <a href="https://jobs.uac.bj/">https://jobs.uac.bj/</a></p>
+                                </li>
+                                <li>
+                                    <h3>Name: Crowdfunding</h3>
+                                    <p>Description: Created a PHP-based web app that enables francophone African users to create and share fundraising campaigns, including user authentication, donation tracking, and social sharing features. I’m glad to have helped over 100 people in these countries find funding for their needs through the app.</p>
+                                    <p>Technologies used: PHP</p>
+                                    <p>Role: Lead Developer</p>
+                                </li>
+                                <li>
+                                    <h3>Name: E-health</h3>
+                                    <p>Description: Developed a web-based telemedicine software for CHU France using Laravel and JavaScript. The software has been used by over 5000 patients through the <a href="https://cloud-respidom.com">https://cloud-respidom.com</a> platform.</p>
+                                    <p>Technologies used: Laravel, JavaScript</p>
+                                    <p>Role: Full-stack Developer</p>
+                                </li>
+                                <li>
+                                    <h3>Name: Search engine and social network</h3>
+                                    <p>Description: Developed a web crawler-based search engine and social network using PHP and MySQL. I built and implemented features including user authentication, search functionality, and social sharing features.</p>
+                                    <p>Technologies used: PHP, MySQL</p>
+                                    <p>Role: Full-stack Developer</p>
+                                </li>
+                            </ul>
+                        </section>
+
+                        <div>
+  <strong>Skills</strong>
+  <div style="max-height: 300px; overflow-y: scroll;">
+    <table>
+      <thead>
+        <tr>
+          <th>Programming Languages</th>
+          <th>Framework</th>
+          <th>Tools and Platforms</th>
+          <th>Soft skills</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>PHP, Python, C++, JavaScript, SQL, Bash, JAVA, XML</td>
+          <td>Laravel, Reactjs, NodeJS, Qt, Flutter</td>
+          <td>Version Control: Git; Databases: PostgreSQL, MySQL, SQLite, Oracle, SQL Server; Cloud: AWS; Operating Systems: Linux, Windows; CMS: Wordpress, Moodle; Other: Docker, LaTeX, Arduino, Ethical Hacking</td>
+          <td>Teamwork, problem-solving, time management, event management, public speaking, multitasking, organization, teaching (mathematics, hacking, and Linux commands)</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div>
+  <h3>Languages &amp; Volunteer Experience</h3>
+  <table>
+    <tr>
+      <th>Languages and Hobbies</th>
+      <td>French (Native), English (Good), Esperanto (Excellent), Adja (Native), Fon (Good) - Dancing, Sports, Attending Clubs, Learning Languages.</td>
+    </tr>
+    <tr>
+      <th>Esperanto, May 2020 - Present</th>
+      <td>Ensure the dissemination of Esperanto in all African countries. Netherlands, Rotterdam</td>
+    </tr>
+  </table>
+</div>
+
+<div>
+  <strong>Honors and Awards</strong>
+  <ul>
+    <li>Multiple academic excellence awards and medals in Maths and Physics Olympiad competitions from 6th to 1st grade.</li>
+    <li>Winner of the web and mobile application development competition for the dissemination of professional opportunities for students in Benin, sponsored by Mastercard Foundation - January 2021.</li>
+    <li>Recipient of the XVI PREMIS GRAU MIRO award for the best publisher of literature (poetry) in Esperanto/Spanish in Spain - 2020.</li>
+  </ul>
+</div>
+
+<div style="height: 100px;">
+
+</div>
+</div>
                     </div>
                     <div class="clearfix"></div>
                 </div>
                 <div class="second-row-note">
-                    <textarea></textarea>
+                    
                 </div>
             </div>
         </div>
