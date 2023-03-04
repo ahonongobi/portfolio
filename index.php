@@ -428,6 +428,13 @@
                                     <p>Technologies used: PHP, MySQL</p>
                                     <p>Role: Full-stack Developer</p>
                                 </li>
+
+                                <li>
+                                    <h3>Name: ElioStrategy</h3>
+                                    <p>Description: ElioStrategy is a web-based search engine and social network that provides users with a comprehensive view of the metal markets and their main factors. The platform employs a web crawler to gather data on minor metals, and provides detailed analyses on their supply chain, including mining projects, refining, metallurgy, substitution processes, R&D work, and recycling channels. As a full-stack developer, you built and implemented features such as user authentication, search functionality, and social sharing using PHP and MySQL. The platform also allows users to create profiles and connect with others with similar interests in the metal markets. Overall, ElioStrategy is a valuable tool for anyone interested in following and understanding the evolution of minor metal prices and their supply chain.</p>
+                                    <p>Technologies used: PHP, MySQL</p>
+                                    <p>Role: Full-stack Developer</p>
+                                </li>
                             </ul>
                         </section>
 
@@ -650,6 +657,13 @@
                                     <p>Technologies used: PHP, MySQL</p>
                                     <p>Role: Full-stack Developer</p>
                                 </li>
+
+                                <li>
+                                    <h3>Name: ElioStrategy</h3>
+                                    <p>Description: ElioStrategy is a web-based search engine and social network that provides users with a comprehensive view of the metal markets and their main factors. The platform employs a web crawler to gather data on minor metals, and provides detailed analyses on their supply chain, including mining projects, refining, metallurgy, substitution processes, R&D work, and recycling channels. As a full-stack developer, you built and implemented features such as user authentication, search functionality, and social sharing using PHP and MySQL. The platform also allows users to create profiles and connect with others with similar interests in the metal markets. Overall, ElioStrategy is a valuable tool for anyone interested in following and understanding the evolution of minor metal prices and their supply chain.</p>
+                                    <p>Technologies used: PHP, MySQL</p>
+                                    <p>Role: Full-stack Developer</p>
+                                </li>
                             </ul>
                         </section>
 
@@ -735,7 +749,7 @@
                         <p>I hold a Bachelor's degree in Computer Science with a specialization in Software Engineering from IFRI UAC and a certification in Online Data Science Mathematics from Great Learning. I am also skilled in programming languages such as Java, Python, and C-Sharp and have experience with web technologies such as HTML, CSS, JavaScript, and React.</p>
                         <p>In my free time, I enjoy exploring new technologies, contributing to open-source projects, and sharing my knowledge through online communities and forums. I am always looking for new challenges and opportunities to grow my skills and make a positive impact in the tech industry.</p>
                         <a href="mailto:contact@gobi-abyssinie.tech">👉 Send me message</a>
-                        <a href="">👉 Checkout some of my work</a>
+                        <a ondblclick="openimg()">👉 Checkout some of my work</a>
 
 
 
@@ -745,7 +759,7 @@
 
             </div>
         </div>
-
+       
 
         <div class="start-window-fade hidden-start" id="start-window-fade"></div>
         <div class="start-window hidden-start" id="start-window">
@@ -1227,6 +1241,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/draggabilly/2.1.1/draggabilly.pkgd.min.js"></script>
     <script src="https://dl.dropboxusercontent.com/s/dfkz6u1vr966ub5/jquery.top-droppable.js"></script>
     <script src="app.js"></script>
+    <script src="mesure.js"></script>
 
     <script>
         // hide color-box on document ready
