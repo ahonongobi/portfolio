@@ -35,10 +35,10 @@
         </div>
 
 
-        <div style="z-index: 99;"  class="main">
-           <!-- the last i did  ondblclick="opencom0()" -->
+        <div style="z-index: 99;" class="main">
+            <!-- the last i did  ondblclick="opencom0()" -->
             <div class="left">
-                <div ondblclick="opennote()"  class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="folder1"><i class="fa fa-folder" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i>
+                <div ondblclick="opennote()" class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="folder1"><i class="fa fa-folder" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i>
                     <p>My cv</p>
                 </div>
                 <div ondblclick="openimg()" class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="folder2"><i class="fa fa-folder" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i>
@@ -668,60 +668,60 @@
                         </section>
 
                         <div>
-  <strong>Skills</strong>
-  <div style="max-height: 300px; overflow-y: scroll;">
-    <table>
-      <thead>
-        <tr>
-          <th>Programming Languages</th>
-          <th>Framework</th>
-          <th>Tools and Platforms</th>
-          <th>Soft skills</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>PHP, Python, C++, JavaScript, SQL, Bash, JAVA, XML</td>
-          <td>Laravel, Reactjs, NodeJS, Qt, Flutter</td>
-          <td>Version Control: Git; Databases: PostgreSQL, MySQL, SQLite, Oracle, SQL Server; Cloud: AWS; Operating Systems: Linux, Windows; CMS: Wordpress, Moodle; Other: Docker, LaTeX, Arduino, Ethical Hacking</td>
-          <td>Teamwork, problem-solving, time management, event management, public speaking, multitasking, organization, teaching (mathematics, hacking, and Linux commands)</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
+                            <strong>Skills</strong>
+                            <div style="max-height: 300px; overflow-y: scroll;">
+                                <table>
+                                    <thead>
+                                        <tr>
+                                            <th>Programming Languages</th>
+                                            <th>Framework</th>
+                                            <th>Tools and Platforms</th>
+                                            <th>Soft skills</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>PHP, Python, C++, JavaScript, SQL, Bash, JAVA, XML</td>
+                                            <td>Laravel, Reactjs, NodeJS, Qt, Flutter</td>
+                                            <td>Version Control: Git; Databases: PostgreSQL, MySQL, SQLite, Oracle, SQL Server; Cloud: AWS; Operating Systems: Linux, Windows; CMS: Wordpress, Moodle; Other: Docker, LaTeX, Arduino, Ethical Hacking</td>
+                                            <td>Teamwork, problem-solving, time management, event management, public speaking, multitasking, organization, teaching (mathematics, hacking, and Linux commands)</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
 
-  <div>
-  <h3>Languages &amp; Volunteer Experience</h3>
-  <table>
-    <tr>
-      <th>Languages and Hobbies</th>
-      <td>French (Native), English (Good), Esperanto (Excellent), Adja (Native), Fon (Good) - Dancing, Sports, Attending Clubs, Learning Languages.</td>
-    </tr>
-    <tr>
-      <th>Esperanto, May 2020 - Present</th>
-      <td>Ensure the dissemination of Esperanto in all African countries. Netherlands, Rotterdam</td>
-    </tr>
-  </table>
-</div>
+                            <div>
+                                <h3>Languages &amp; Volunteer Experience</h3>
+                                <table>
+                                    <tr>
+                                        <th>Languages and Hobbies</th>
+                                        <td>French (Native), English (Good), Esperanto (Excellent), Adja (Native), Fon (Good) - Dancing, Sports, Attending Clubs, Learning Languages.</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Esperanto, May 2020 - Present</th>
+                                        <td>Ensure the dissemination of Esperanto in all African countries. Netherlands, Rotterdam</td>
+                                    </tr>
+                                </table>
+                            </div>
 
-<div>
-  <strong>Honors and Awards</strong>
-  <ul>
-    <li>Multiple academic excellence awards and medals in Maths and Physics Olympiad competitions from 6th to 1st grade.</li>
-    <li>Winner of the web and mobile application development competition for the dissemination of professional opportunities for students in Benin, sponsored by Mastercard Foundation - January 2021.</li>
-    <li>Recipient of the XVI PREMIS GRAU MIRO award for the best publisher of literature (poetry) in Esperanto/Spanish in Spain - 2020.</li>
-  </ul>
-</div>
+                            <div>
+                                <strong>Honors and Awards</strong>
+                                <ul>
+                                    <li>Multiple academic excellence awards and medals in Maths and Physics Olympiad competitions from 6th to 1st grade.</li>
+                                    <li>Winner of the web and mobile application development competition for the dissemination of professional opportunities for students in Benin, sponsored by Mastercard Foundation - January 2021.</li>
+                                    <li>Recipient of the XVI PREMIS GRAU MIRO award for the best publisher of literature (poetry) in Esperanto/Spanish in Spain - 2020.</li>
+                                </ul>
+                            </div>
 
-<div style="height: 100px;">
+                            <div style="height: 100px;">
 
-</div>
-</div>
+                            </div>
+                        </div>
                     </div>
                     <div class="clearfix"></div>
                 </div>
                 <div class="second-row-note">
-                    
+
                 </div>
             </div>
         </div>
@@ -751,15 +751,28 @@
                         <a href="mailto:contact@gobi-abyssinie.tech">👉 Send me message</a>
                         <a ondblclick="openimg()">👉 Checkout some of my work</a>
 
+                        <h1>Don't miss to read my personal statement!</h1>
 
-
+                        <p>Ever since I was first introduced to a computer in fourth grade at High school, I have been captivated by the power and potential of technology. That initial fascination ultimately led me to pursue a degree in computer science, and although my path has not always been easy, my determination to succeed has never wavered.</p>
+                        <p>After completing my High school studies, I faced some of the most challenging circumstances of my life. My father passed away, and my own health struggles made it difficult to continue my education. Despite these setbacks, I refused to give up on my dreams. I was accepted to the Faculty of Science and Technology at the University of Abomey Calavi, but after a year of hardship, I realized that my true passion lay in programming.</p>
+                        <p>Determined to turn my passion into a career, I began searching for scholarships and grants to pursue further education in computer science. It was during this time that I was fortunate enough to receive a generous scholarship from an engineer at Google, who saw my potential and offered to support me in any way possible.</p>
+                        <p>Thanks to this scholarship, I was able to dive even deeper into the world of computing, honing my skills and expanding my knowledge. Today, I am more motivated than ever to make a difference in the field of computer science, and I am excited for the opportunities that lie ahead.</p>
                         </p>
+
+                        <p>As a highly skilled and experienced full-stack developer, I am passionate about web and mobile development and have worked on numerous projects throughout my career. My expertise lies in using various programming languages such as PHP, Python, C++, and JavaScript, as well as frameworks like Laravel, Reactjs, and NodeJS, to create innovative solutions that help businesses grow and individuals achieve their goals.</p>
+                        <p>I am proud to have worked on several high-profile projects, including a web and mobile platform for professional opportunities at the University of Abomey-Calavi, which has helped over 2,000 students find educational opportunities, and a telemedicine software for CHU France, which has been used by over 5,000 patients. I am also the lead developer for a crowdfunding app that has helped over 100 people in francophone African countries find funding for their needs.</p>
+                        <p>Aside from my technical skills, I possess excellent soft skills such as teamwork, problem-solving, time management, event management, public speaking, multitasking, organization, and teaching, which have enabled me to work effectively with clients, collaborate with team members, and manage multiple projects simultaneously.</p>
+                        <p>I am also fluent in several languages, including French, English, Esperanto, Adja, and Fon, and enjoy volunteering my time to help promote the dissemination of Esperanto in African countries.</p>
+                        <p>Overall, my passion for technology and my commitment to providing innovative solutions make me a valuable asset to any team, and I look forward to contributing my skills and expertise to new and exciting projects in the future.</p>
+
+
+
                     </div>
                 </div>
 
             </div>
         </div>
-       
+
 
         <div class="start-window-fade hidden-start" id="start-window-fade"></div>
         <div class="start-window hidden-start" id="start-window">
