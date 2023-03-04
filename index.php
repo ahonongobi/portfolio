@@ -36,14 +36,14 @@
     
     <div  class="left">
       <div ondblclick="opencom0()" class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="folder1"><i class="fa fa-folder" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i><p>Mon cv</p></div>
-      <div class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="folder2"><i class="fa fa-folder" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i><p>Folder 2</p></div>
+      <div ondblclick="openimg()" class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="folder2"><i class="fa fa-folder" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i><p>My Projects</p></div>
       
     </div>
 
     <div  class="left">
      
-      <div class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="folder4"><i class="fa fa-folder" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i><p>Folder 4</p></div>
-      <div class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="folder5"><i class="fa fa-folder" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i><p>Folder 5</p></div>
+      <div ondblclick="openvid()" class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="folder4"><i class="fa fa-folder" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i><p>Works Experience</p></div>
+      <div class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="folder5"><i class="fa fa-folder" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i><p>My Research</p></div>
     </div>
   </div>
 
@@ -244,11 +244,11 @@
                     <div class="row main-folders">
                         <div class="col-xs-2 folders text-center" ondblclick="openimg()">
                             <p class="contain"><img src="windows_10.jpg" class="img-responsive  center-block" alt=""></p>
-                            <span>Photo</span>
+                            <span>My Projects</span>
                         </div>
                         <div class="col-xs-2 folders text-center" ondblclick="openvid()">
                             <p class="contain"><img src="https://mohamedelghandour.github.io/windows-10/img/myposter.PNG" class="img-responsive  center-block" alt=""></p>
-                            <span>Video</span>
+                            <span>Work Background</span>
                         </div>
                         <div class="col-xs-2 folders text-center" ondblclick="opennote()">
                             <p class="contain"><img src="https://mohamedelghandour.github.io/windows-10/img/if_sticky-note_299111.png" class="img-responsive  center-block" alt=""></p>
@@ -388,8 +388,40 @@
                 </div>
                 <div class="clearfix"></div>
             </div>
-            <div class="second-row-img">
-                <img src="window_11.jpg" class="center-block img-responsive" style="height:80vh" alt="">
+            <div style="background-image: url('window_11.jpg') no-repeat;" class="second-row-img">
+                <div class="container">
+                <section>
+  <h2>Projects</h2>
+  <ul>
+    <li>
+      <h3>Name: Job platform</h3>
+      <p>Description: Created a web and mobile app using Laravel, NodeJS, and Docker to connect students in Benin with scholarships and internships. As a full-stack developer, I built and implemented features including user authentication, search functionality, and external API integration. App has helped over 2000 students find educational opportunities.</p>
+      <p>Technologies used: Laravel, NodeJS, Docker</p>
+      <p>URL: <a href="https://jobs.uac.bj/">https://jobs.uac.bj/</a></p>
+    </li>
+    <li>
+      <h3>Name: Crowdfunding</h3>
+      <p>Description: Created a PHP-based web app that enables francophone African users to create and share fundraising campaigns, including user authentication, donation tracking, and social sharing features. I’m glad to have helped over 100 people in these countries find funding for their needs through the app.</p>
+      <p>Technologies used: PHP</p>
+      <p>Role: Lead Developer</p>
+    </li>
+    <li>
+      <h3>Name: E-health</h3>
+      <p>Description: Developed a web-based telemedicine software for CHU France using Laravel and JavaScript. The software has been used by over 5000 patients through the <a href="https://cloud-respidom.com">https://cloud-respidom.com</a> platform.</p>
+      <p>Technologies used: Laravel, JavaScript</p>
+      <p>Role: Full-stack Developer</p>
+    </li>
+    <li>
+      <h3>Name: Search engine and social network</h3>
+      <p>Description: Developed a web crawler-based search engine and social network using PHP and MySQL. I built and implemented features including user authentication, search functionality, and social sharing features.</p>
+      <p>Technologies used: PHP, MySQL</p>
+      <p>Role: Full-stack Developer</p>
+    </li>
+  </ul>
+</section>
+
+                </div>
+                <img src="" class="center-block img-responsive" style="height:80vh" alt="">
             </div>
         </div>
     </div>
@@ -397,9 +429,66 @@
     <div class="video-overlay" id="video-overlay">
         <div class="fluid-container">
             <div class="first-row-vid">
-                <span class="center-text head-over">My Video</span>
+                
                 <div class="right">
                     <i class="fa fa-times" onclick="closevid()"></i>
+                </div>
+                <div class="container">
+                <section>
+  <h2>Works Background</h2>
+  <table>
+  <tr>
+    <th>Year</th>
+    <th>Position, Company Name and Achievement</th>
+  </tr>
+  <tr>
+    <td>2022-Present</td>
+    <td>
+      <ul>
+        <li>CTO and Lead Developer at INTELLIGENCIA SI (since 2022)</li>
+        <li>Designed web and mobile platforms for online learning, e-commerce, and product showcasing.</li>
+        <li>Directed IT projects, including the design and implementation of <a href="https://eliostrategy.com">https://eliostrategy.com</a>, <a href="https://cvscan.uk/fr/">https://cvscan.uk/fr/</a>, and <a href="https://aplahoue-tourisme.com">https://aplahoue-tourisme.com</a>.</li>
+        <li>Configured remote servers to store, manage, and process data.</li>
+        <li>Developed an automatic detection system for stolen electrical objects using communicating chips and artificial intelligence software.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>2021-2022</td>
+    <td>
+      <ul>
+        <li>Application Developer at MASTERCARD FOUNDATION (2021-2022)</li>
+        <li>Secured a one-year internship at MASTERCARD FOUNDATION after winning a web and mobile application development competition for the dissemination of professional opportunities for students in Benin.</li>
+        <li>Designed and developed a web and mobile platform for the dissemination of professional opportunities at the University of Abomey-Calavi, which can be found at <a href="https://jobs.uac.bj">https://jobs.uac.bj</a>.</li>
+        <li>Conducted unit and functional testing of the system developed for student registrations at uac.bj.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>2020-Today</td>
+    <td>
+      <ul>
+        <li>Full-stack Web and Mobile Developer at LEMES TECHNOLOGY, Telecommuting</li>
+        <li>Designed web and mobile platforms for e-learning, e-commerce, and product showcasing.</li>
+        <li>Developed management software for desktop imaging and image processing using C-Sharp.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>2019-Present</td>
+    <td>
+      <ul>
+        <li>Freelance Web Developer, ComeUp (2019 - Present)</li>
+        <li>Started freelancing as a web developer during my first year of studies in computer science, driven by my passion for web development.</li>
+        <li>Designed and developed websites and web applications for various clients, including small businesses and startups.</li>
+        <li>Collaborated with clients to gather requirements, design user interfaces, and develop custom features.</li>
+        <li>Managed multiple projects simultaneously and met project deadlines.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+</section>
                 </div>
                 <div class="clearfix"></div>
             </div>
@@ -454,6 +543,10 @@
   <p>I hold a Bachelor's degree in Computer Science with a specialization in Software Engineering from IFRI UAC and a certification in Online Data Science Mathematics from Great Learning. I am also skilled in programming languages such as Java, Python, and C-Sharp and have experience with web technologies such as HTML, CSS, JavaScript, and React.</p>
   <p>In my free time, I enjoy exploring new technologies, contributing to open-source projects, and sharing my knowledge through online communities and forums. I am always looking for new challenges and opportunities to grow my skills and make a positive impact in the tech industry.</p>
                     <a href="mailto:contact@gobi-abyssinie.tech">👉 Send me message</a>
+                    <a href="">👉 Checkout some of my work</a>
+
+                    
+
                     </p>
                 </div>
             </div>
@@ -963,6 +1056,39 @@
             aboutOverlay.style.transform = "scale(1)";
             document.getElementById('a5').style.display = "block";
         }
+</script>
+
+<script>
+   // Wait for the page to load
+window.addEventListener('load', () => {
+  // Get the document element
+  const elem = document.documentElement;
+
+  // Request fullscreen
+  if (elem.requestFullscreen) {
+    elem.requestFullscreen().catch(() => {
+      // If requesting fullscreen fails, try again with a user gesture
+      document.addEventListener('click', () => {
+        elem.requestFullscreen();
+      }, { once: true });
+    });
+  } else if (elem.webkitRequestFullscreen) { /* Safari */
+    elem.webkitRequestFullscreen().catch(() => {
+      // If requesting fullscreen fails, try again with a user gesture
+      document.addEventListener('click', () => {
+        elem.webkitRequestFullscreen();
+      }, { once: true });
+    });
+  } else if (elem.msRequestFullscreen) { /* IE11 */
+    elem.msRequestFullscreen().catch(() => {
+      // If requesting fullscreen fails, try again with a user gesture
+      document.addEventListener('click', () => {
+        elem.msRequestFullscreen();
+      }, { once: true });
+    });
+  }
+});
+
 </script>
 </body>
 </html>
