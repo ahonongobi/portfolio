@@ -11,18 +11,31 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css">
     <title>Ahonon gobi abyssinie parfait</title>
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
 </head>
+
+<script>
+    // google script  to trnaslate the page according to the language of the browser
+    function googleTranslateElementInit() {
+        new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+
+    }
+
+</script>
 <body>
 <div id="window" class="window">
     <div class="icon-computer text-center" id="icon-computer" ondblclick="opencom()">
         <img src="https://mohamedelghandour.github.io/windows-10/img/thumb_14339670430This_PC.png" class="img-responsive">
         <p>This PC</p>
+        
     </div>
+    
     
     <div class="main">
     
     <div  class="left">
-      <div class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="folder1"><i class="fa fa-folder" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i><p>Folder 1</p></div>
+      <div ondblclick="opencom0()" class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="folder1"><i class="fa fa-folder" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i><p>Mon cv</p></div>
       <div class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="folder2"><i class="fa fa-folder" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i><p>Folder 2</p></div>
       <div class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="folder3"><i class="fa fa-folder" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i><p>Folder 3</p></div>
       <div class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="folder4"><i class="fa fa-folder" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i><p>Folder 4</p></div>
@@ -33,15 +46,18 @@
   
 
 
-    <section class="option-box">
-        <div class="color-box">
-            <h4>All about Windows 10 Design</h4>
+    <section  onclick="openabout()" class="option-box">
+        <div style="display: none;" class="color-box">
+            <h4>All about me and my Portfolio</h4>
             <!--<video class="center-block" width="360" height="" controls>
                         <source src="img/myExplain_2.mp4" type="video/mp4">
                         <source src="img/myExplain_2.ogg" type="video/ogg">
                         Your browser does not support the video tag.
                 </video>-->
-            <div style="position:relative;height:0;padding-bottom:56.25%;width: 400px; d-none"><iframe src="https://www.youtube.com/embed/VUPtvK28fhY?ecver=22" style="position:absolute;width:100%;height:100%;left:0" width="640" height="360" frameborder="0" allowfullscreen></iframe></div>
+            <div style="position:relative;height:0;padding-bottom:56.25%;width: 400px; d-none">
+            <img style="position:absolute;width:100%;height:100%;left:0" width="640" height="360" src="http://intelligencia-si.com/assets/img/team/pp.jpeg" alt="">
+           <!-- <iframe src="https://www.youtubes.com/embed/VUPtvK28fhY?ecver=22" style="position:absolute;width:100%;height:100%;left:0" width="640" height="360" frameborder="0" allowfullscreen></iframe> -->
+            </div>
             <a class="btn btn-primary center-block text-center" onclick="openabout()">About Me</a>
         </div>
         <i class="fa fa-gear fa-3x gear-check"></i>
@@ -147,7 +163,7 @@
                 <div class="col-xs-7">
                     <div class="path-input">
                         <span class="path-icon-input">This pc</span>
-                        <span class="path-icon-input">Mohamed Yahya (E:)</span>
+                        <span class="path-icon-input">Gobi (E:)</span>
                         <span class="path-icon-input">programming</span>
                         <span class="path-icon-input">Front End</span>
                     </div>
@@ -422,7 +438,7 @@
             </div>
             <div class="second-row-abo">
                 <div>
-                    <img src="http://localhost/intelligencia-si/assets/img/team/pp.jpeg" class="img-responsive" alt="">
+                    <img src="http://intelligencia-si.com/assets/img/team/pp.jpeg" class="img-responsive" alt="">
                     <p>
                     I am  Gobi abyssinie Ahonon, a fullstack developer specializing in web design, multiplatform mobile applications (android, iOS, microsoft ..), and desktops applications. i have a very big passion for code and i'm always looking to improve my skills. for all your projects, relating to these skills, I am the best candidate for you. the one that will boost your business or your reputation with customers or users. <br> <br>
                     Laravel consultant, I have a great background in reactjs, react native, php, css, html, dart, flutter, Java EE, Java Android, Ruby on rails, Scala, jquery, Ajax, use of git, Linux. indeed, you can judge for yourself by contacting him via my email address mentioned below, or either take a look at some of my projects done. Best regard, your software engineer. <br> <br>
@@ -568,14 +584,16 @@
                         </div>
                     </div>
                     <div class="media">
+                        
                         <div class="media-left">
-                            <a href="#">
+                            <a href="https://github.com/ahonongobi">
                                 <img class="media-object" src="https://mohamedelghandour.github.io/windows-10/img/github-desktop-icon.png" width="35" height="35" alt="...">
                             </a>
                         </div>
                         <div class="media-body">
                             <small class="media-heading">github</small>
                         </div>
+                        
                     </div>
                     <div class="media">
                         <div class="media-left">
@@ -666,7 +684,7 @@
                             </div>
                         </div>
                         <div class="col-xs-4 box">
-                            <div class="box-style" style="background:url('https://mohamedelghandour.github.io/windows-10/img/profile.png');background-size: cover;    background-repeat: no-repeat;
+                            <div class="box-style" style="background:url('http://intelligencia-si.com/assets/img/team/pp.jpeg');background-size: cover;    background-repeat: no-repeat;
                                 background-position: 39%;">
                                 <div class="icon-bottom text-center" style="margin: 20px;">
                                     <i class="fa fa-twitter fa-2x" style="color: rgba(0,0,0,0);"></i>
@@ -753,16 +771,16 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xs-4 box">
-                            <div class="box-style" style="background:url('https://mohamedelghandour.github.io/windows-10/img/1200x630bb.jpg');background-size: cover;background-position: center;">
+                        <a href="/" class="col-xs-4 box">
+                            <div class="box-style" style="background:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAk1BMVEXiV0z///+1NinhSz7UTULXUEThTUDhUUb2z83iVUryu7jxs6/rkozhT0Pqj4n0xMG0MiTgRTfogHnjXVLupKDgSTu2JxTnenL99fTlaWDzwr/yurfofnf77Ov45uW2Kxr33Nq2Igy1HgDFQjb219XsmpTpiYLmcGfkZVvuop3mc2vYVku2MSG1Khm7Oy70y8jfQDF6goqfAAAGhklEQVR4nO3d6ZqiOBQGYJBuMCqWqIxbads9qFU1i33/Vze4EEIWJEAV5zjn+9kPQl4OBWHpxHH12W3Gq5nTSdhfW0OjasXR/muyiP2AdQN0nG9/7z5ZuHyNgq50V+GkTaJGuHU69aXCXptEVbj1Ojs8ubBNoiJcOl0DL8Le5EdbREV4DLsGXoXtVVEWJlHXvruwN/mnHaIsXHR8lsmFbVVREm4BlDATtvS3KAk3ftc8Jxe2U0VJOAZwkObCVqooCVedXyocUdgGURLOgAlbIEpCBk3Ym/zRkAhe2LiK8IVNq4hA2LCKGITNqohC2KiPikOYVnH/5MIGByoWYXqg1qwiGmFv8rMeEY+wbhURCWtWEZOw3hkVlbBWFXEJ61QRmbBGFbEJ7YnohNYHKj6hbRURCi2riFFoV0WUQqsq4hT2Jr+SJxdaHKhYhSmxYhXRCitXEa+wahURCyuebjAL04tGBSJqYaUq4hZWqSJyYYUqYhc+PqOiFz4k4hc+Ij6BMCX2kQm/Wwp7vbLTDUShYy0sq+JzCNOLhpEIUvinPbFnrCJIoe2p5hpTFUEKnX/rEA1VhCm0P5uaqwhTWOsv0VBFoMJ6x2nv5xmPsCZRc6CCFdY9UJUqwhU632uV8ZdMBCxMjTXqOJGJoIWXfLfNtxiZ0DrMeXohIyH2kJCE8ENCEsIPCUkIPyQkIfyQkITwQ0ISwg8JSQg/JCQh/JCQhPBDQhJq1hiEfpYw1I96KiySLmNYSFnysrD92GOtC4PwMMwzH60iT24Vi6ZDcZn3aRB5oW5LLDoOi1nEXQvDoyunf4wLa2EzddTcZXJg6iiijKkDmAy8boVspjQpzX4lDt0XGYYFXr/JRk/31dbU8kBtWRgO9a0/5AdXoFY5yyAotJ69aXeE5UCHLQs9zYdk1ww50bQTLlmexNFS9fsisTxM2xYaPz4+ZLveH5iFrnsU2h+MdUucoQr5EIzlQnHMW73QdrDKrxPuo0pC98QFWmHf9nLxWcL+YnrJu/A/Vz+YJNz3L0l2y8Iml/yMyoW7l/M9L6Our4dcuI6DS8Ior8Pak4THyLsk9k9DEcmveFw4+O3d43fep+HCl6yZ3igvjiQcBVkbwt9zYaNvTBLaXiC+VuhEvF9ya7kqvP5wmm80+y0WYcjLc+uN6IWOP1W2ikUYvGYrO5QJnXjtFhdEI2SrbGXzsEwotKTvoRIGC16aUqHQ41vGqIT53+Gx9CgVu6G3AZqxCPNz6arkXHppis83e+uZIRF6h2xdy1s7jULhxvH2FwtbuI7ufRp+wc9uCszCmHfxBn5BOPDYPYCEyXh0idgvvU+zYBbmp5rbzshrGMxuCWvMl9LlvYUs9PkVsV8U5unbl/HrhCfl/lCp4WOhuwdzb6HkXb3HV4T8x2ejMLsHgyfc8H1fcqbh15V18UwjZm47780XCef5XCclVwuJoRW+gxQm4vNSc5+Gd+/kK74Y6xk3Pl+4PC8Kz7zN/dIN/43UaxNi+6Tt84T79/klh+NMfm9hvLcI+Va3Us8731sbH8zVYh2F16ivlUxCL39SfO+lqX0azx74BT3visLwI9/qQroD5kJrHiChv8o3urufeGH3vK2ETOygZ/eRzyAc35+Xxs5BfE/IO2b4hcnLJee99D6RX/HwC/XhL6meVTgU3qU+pXAoTNYHU3h+2Ch/45pTeLXEH74NAAn5K2zzTU4wck1J3goU/izZ+n6isJaWv8XIGlUyJV1cfF/Is3+NpR95u4crq9Cklr+n8W8PD8cle529aab52Q1X6rTKwa0nN2o02Wvr30T5p815uCptE/Ne5+I3UfPxKoi130QFzrC/OTWbzfYTvmvz9V9wiQnCQgLjZlhY53aiuAr6NrHrBjYOCUkIPyQkIfyQkITwQ0ISwg8JSQg/JCQh/JCQhPBDQhLCDwlJCD8kJCH8kJCE8ENCEsIPCUkIPyQkIfyQkITwQ0ISwg8JSQg/JCQh/JCQhPBDQhLCDwlJCD8kJCH8/O+Fjf6vP4zIE1JIQuvR0eCFrUqFR2WcA3SRx0SThJsmo4rAiDyWiiTcRo9XATzypC+SMBs6DW+E0Rj1wgR7EaPkgdCdNhtZpOuEUxmkCJcO5gsGc5ThfhShu206fEqHYb46t5QqdHcM64Eaaub80gnd5VQd4AhBgmiqG5FKJ0zPqB+RXzLBHbywwI8+5LNomTA9VAfj06zrdlfO7DQeaA7Qa/4DpSWhgC09M5AAAAAASUVORK5CYII=');background-size: cover;background-position: center;">
                                 <div class="icon-bottom text-center" style="margin: 20px;">
                                     <i class="fa fa-twitter fa-2x" style="color: rgba(0,0,0,0);"></i>
                                 </div>
-                                <div style="font-size: 10px;">
-                                    minecraft
+                                <div style="font-size: 10px; color:#fff">
+                                    My CV
                                 </div>
                             </div>
-                        </div>
+                        </a>
                         <div class="col-xs-4 box">
                             <div class="box-style" style="background:url('https://mohamedelghandour.github.io/windows-10/img/shortcut-icon-180-393c2144.png');background-size: cover;background-position: center;">
                                 <div class="icon-bottom text-center" style="margin: 20px;">
@@ -842,12 +860,17 @@
                             <i class="fa fa-search fa-2x"></i>
                         </div>
                     </div>
-                    <div class="col-xs-1-me">
+                    <a href="mailto:abyssiniea@gmail.com" class="col-xs-1-me">
                         <div class="icon-bottom">
-                            <i class="fa fa-envelope fa-2x"></i>
+                            <i style="color: #fff;" class="fa fa-envelope fa-2x"></i>
+                        </div>
+                    </a>
+                    <div class="col-xs-1-me" id="a1">
+                        <div class="icon-bottom">
+                            <i class="fa fa-folder fa-2x"></i>
                         </div>
                     </div>
-                    <div class="col-xs-1-me" id="a1">
+                    <div class="col-xs-1-me" id="a0">
                         <div class="icon-bottom">
                             <i class="fa fa-folder fa-2x"></i>
                         </div>
@@ -910,7 +933,25 @@
 <script src="app.js"></script>
 
 <script>
-    
+  // hide color-box on document ready
+    $(document).ready(function() {
+        $('.color-box').hide();
+    });
+</script>
+<script>
+    // if document ready, after 12 seconds, openabout()
+    $(document).ready(function() { 
+        setTimeout(function() {
+            openabout();
+        }, 12000);
+    });
+    // create function openabout()
+    var aboutOverlay = document.getElementById('about-overlay');
+
+        function openabout() {
+            aboutOverlay.style.transform = "scale(1)";
+            document.getElementById('a5').style.display = "block";
+        }
 </script>
 </body>
 </html>

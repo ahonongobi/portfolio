@@ -14,7 +14,7 @@ body {
 }
 
 .window {
-    background-image: url('https://mohamedelghandour.github.io/windows-10/img/windows_10.jpg');
+    background-image: url('windows_10.jpg');
     color: white;
     background-repeat: no-repeat;
     background-position: center;
@@ -560,6 +560,7 @@ div .resizer {
 }
 
 #a1,
+#a0,
 #a2,
 #a3,
 #a4,

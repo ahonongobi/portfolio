@@ -144,6 +144,8 @@ var myWindowFade = document.getElementById('start-window-fade'),
             document.getElementById('a5').style.display = "block";
         }
 
+        
+
         function closeabout() {
             aboutOverlay.style.transform = "scale(0)";
             document.getElementById('a5').style.display = "none";
@@ -214,6 +216,11 @@ var myWindowFade = document.getElementById('start-window-fade'),
         function opencom() {
             computerOverlay.style.transform = "scale(1)";
             document.getElementById('a1').style.display = "block";
+        }
+
+        function opencom0() {
+            computerOverlay.style.transform = "scale(1)";
+            document.getElementById('a0').style.display = "block";
         }
 
         function closecom() {
@@ -331,3 +338,5 @@ var myWindowFade = document.getElementById('start-window-fade'),
                 }
             }
         }
+
+        
