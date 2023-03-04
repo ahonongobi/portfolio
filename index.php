@@ -438,6 +438,7 @@
             </div>
             <div class="second-row-abo">
                 <div>
+                    <span>(Welcome to my buiding window 10 Portfolio)</span>
                     <img src="http://intelligencia-si.com/assets/img/team/pp.jpeg" class="img-responsive" alt="">
                     <p>
                     <h1>Hello!</h1>
