@@ -37,7 +37,11 @@
     <div  class="left">
       <div ondblclick="opencom0()" class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="folder1"><i class="fa fa-folder" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i><p>Mon cv</p></div>
       <div class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="folder2"><i class="fa fa-folder" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i><p>Folder 2</p></div>
-      <div class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="folder3"><i class="fa fa-folder" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i><p>Folder 3</p></div>
+      
+    </div>
+
+    <div  class="left">
+     
       <div class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="folder4"><i class="fa fa-folder" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i><p>Folder 4</p></div>
       <div class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="folder5"><i class="fa fa-folder" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i><p>Folder 5</p></div>
     </div>
@@ -404,8 +408,10 @@
                             <source src="img/myExplain_2.mp4" type="video/mp4">
                             <source src="img/myExplain_2.ogg" type="video/ogg">
                             Your browser does not support the video tag.
-                    </video>-->
-                <div style="position:relative;height:0;padding-bottom:56.25%;"><iframe src="https://www.youtube.com/embed/VUPtvK28fhY?ecver=2" style="position:absolute;width: 50%;height: 50vh;left: 25%;" width="640" height="360" frameborder="0" allowfullscreen></iframe></div>
+                    </video>
+                    <div style="position:relative;height:0;padding-bottom:56.25%;"><iframe src="https://www.youtube.com/embed/VUPtvK28fhY?ecver=2" style="position:absolute;width: 50%;height: 50vh;left: 25%;" width="640" height="360" frameborder="0" allowfullscreen></iframe></div>
+                -->
+                
             </div>
         </div>
     </div>
@@ -430,7 +436,7 @@
     
         <div style="" class="fluid-container">
             <div class="first-row-img">
-                <span class="center-text head-over">Info about me</span>
+                <span class="center-text head-over">Info about me (Welcome to my buiding window 10 Portfolio)</span>
                 <div class="right">
                     <i class="fa fa-times" onclick="closeabout()"></i>
                 </div>
@@ -438,7 +444,7 @@
             </div>
             <div class="second-row-abo">
                 <div>
-                    <span>(Welcome to my buiding window 10 Portfolio)</span>
+                    <span></span>
                     <img src="http://intelligencia-si.com/assets/img/team/pp.jpeg" class="img-responsive" alt="">
                     <p>
                     <h1>Hello!</h1>
