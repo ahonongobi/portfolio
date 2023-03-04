@@ -243,7 +243,7 @@
                 <div class="col-xs-9 ">
                     <div class="row main-folders">
                         <div class="col-xs-2 folders text-center" ondblclick="openimg()">
-                            <p class="contain"><img src="https://mohamedelghandour.github.io/windows-10/img/admin-3.jpg" class="img-responsive  center-block" alt=""></p>
+                            <p class="contain"><img src="windows_10.jpg" class="img-responsive  center-block" alt=""></p>
                             <span>Photo</span>
                         </div>
                         <div class="col-xs-2 folders text-center" ondblclick="openvid()">
@@ -389,7 +389,7 @@
                 <div class="clearfix"></div>
             </div>
             <div class="second-row-img">
-                <img src="https://mohamedelghandour.github.io/windows-10/img/admin-3.jpg" class="center-block img-responsive" style="height:80vh" alt="">
+                <img src="window_11.jpg" class="center-block img-responsive" style="height:80vh" alt="">
             </div>
         </div>
     </div>
