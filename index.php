@@ -35,7 +35,7 @@
         </div>
 
 
-        <div  class="main">
+        <div style="z-index: 99;"  class="main">
            <!-- the last i did  ondblclick="opencom0()" -->
             <div class="left">
                 <div ondblclick="opennote()"  class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="folder1"><i class="fa fa-folder" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i>
@@ -516,7 +516,7 @@
             </div>
         </div>
 
-        <div class="note-overlay" id="note-overlay">
+        <div style="z-index: 100;" class="note-overlay" id="note-overlay">
             <div class="fluid-container">
                 <div class="first-row-note">
                     <span class="center-text head-over">CV</span>
