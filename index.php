@@ -1372,7 +1372,7 @@
     <script>
                 // Check if the website is being accessed from a mobile device
         if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
-        alert("This website requires a computer to properly work.");
+        alert("As this work as OS Window 10, This website requires a computer to properly work.");
         }
 
     </script>
