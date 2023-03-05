@@ -52,8 +52,16 @@
                 <div ondblclick="openvid()" class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="folder4"><i class="fa fa-folder" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i>
                     <p>Works Experience</p>
                 </div>
-                <div class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="folder5"><i class="fa fa-folder" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i>
-                    <p>My Research</p>
+                <div  class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="mySizeChart"><i style="font-size: 90px;" class="fa fa-newspaper-o mt-2" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i>
+                    <p style="color:#fff">Article 1(software engineering)</p>
+                </div>
+            </div>
+
+            <div class="left">
+
+                
+                <div  class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="mySizeChart2"><i class="fa fa-folder" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i>
+                    <p>Artificial intelligence</p>
                 </div>
             </div>
         </div>
@@ -1169,6 +1177,43 @@
                 </div>
             </div>
         </div>
+        <!-- Modal for research -->
+        <div style="z-index: 100;" id="mySizeChartModal" class="ebcf_modal ">
+
+        <div class="ebcf_modal-content">
+            <span class="ebcf_close">&times;</span>
+            <div style="text-align: center; background-color: #f5f5f5; padding: 10px;">
+            <a href="?view=50">View by approximately 50 viewer</a>
+           </div>
+            <h1>The Importance of Software Engineering in Modern Society</h1>
+            <h2>Abstract</h2>
+            <p>Software engineering has become an essential part of modern society, with virtually every aspect of our daily lives relying on software to function properly. From smartphones and social media platforms to medical devices and self-driving cars, software is embedded in virtually every aspect of our lives. As such, it is critical that software engineering practices are robust, efficient, and reliable, in order to ensure that the software we rely on is safe and secure.</p>
+
+            <h2>Introduction</h2>
+            <p>Software engineering is the process of designing, developing, testing, and maintaining software systems. In the modern world, software engineering has become an essential part of daily life, with software systems embedded in virtually every aspect of modern society. From smartphones and social media platforms to medical devices and self-driving cars, software is now an integral part of the way we live, work, and interact with the world.</p>
+
+            <p>As software systems have become more complex and more interconnected, the importance of software engineering has only increased. Software engineering practices are critical to ensuring that software is developed efficiently, reliably, and securely, and that it meets the needs of users and stakeholders. In this article, we explore the key concepts and principles of software engineering, the challenges facing the field today, and the most promising trends in software engineering.</p>
+
+            <h2>Key Concepts and Principles</h2>
+            <p>The key concepts and principles of software engineering are based on a set of well-established best practices that have evolved over several decades. These include the use of formal methods and techniques to model and design software systems, the use of agile development practices to enable rapid iteration and feedback, and the use of automated testing and continuous integration to ensure that software is developed and tested efficiently and reliably.</p>
+
+            <p>In addition, software engineering emphasizes the importance of software quality, security, and maintainability. Software quality refers to the degree to which a software system meets its requirements and specifications, while software security refers to the measures taken to protect software systems from cyber attacks and other security threats. Finally, software maintainability refers to the ease with which software systems can be updated, modified, and adapted to changing user needs and requirements.</p>
+
+            <h2>Challenges Facing Software Engineering</h2>
+            <p>Despite the many benefits of software engineering, the field faces a number of challenges that must be addressed in order to ensure that software systems are safe, secure, and reliable. One of the key challenges facing software engineering is the increasing complexity of software systems. As software systems become more complex and more interconnected, it becomes more difficult to develop and maintain them effectively.</p>
+
+            <p>In addition, software engineering faces challenges related to cybersecurity. With cyber attacks becoming increasingly sophisticated and frequent, software engineers must be vigilant in their efforts to protect software systems from security threats. Finally, software engineering faces challenges related to scalability, particularly as software systems become more distributed and more reliant on cloud-based technologies.</p>
+
+            <h2>Trends in Software Engineering</h2>
+            <p>Despite these challenges, there are many promising trends in software engineering that are helping to improve the efficiency, reliability, and security of software systems. One of the most promising trends is agile development, which emphasizes rapid iteration and feedback to enable software to be developed and tested quickly and efficiently. Another promising trend is DevOps, which focuses on integrating software development and operations to streamline the software development process.</p>
+
+            <p>Finally, machine learning is another trend that is having a significant impact on software engineering. By using machine learning algorithms to analyze and model large datasets, software engineers are able to develop more efficient and effective software systems, particularly in areas such as natural language processing and computer vision. </p>
+
+        </div>
+
+        </div>
+       <!-- Modal for research -->
+
         <footer class="nav navbar-inverse navbar-fixed-bottom footer text-center">
             <div class="fluid-container">
                 <div class="row">
@@ -1214,6 +1259,12 @@
                             </div>
                         </div>
                         <div class="col-xs-1-me" id="a5">
+                            <div class="icon-bottom">
+                                <i class="fa fa-id-card fa-2x"></i>
+                            </div>
+                        </div>
+
+                        <div class="col-xs-1-me" id="a6">
                             <div class="icon-bottom">
                                 <i class="fa fa-id-card fa-2x"></i>
                             </div>
@@ -1316,6 +1367,14 @@
                 });
             }
         });
+    </script>
+
+    <script>
+                // Check if the website is being accessed from a mobile device
+        if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+        alert("This website requires a computer to properly work.");
+        }
+
     </script>
 </body>
 
