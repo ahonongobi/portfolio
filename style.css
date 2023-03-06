@@ -446,6 +446,11 @@ mark {
     color: #fff;
     transition: all .5s ease-in-out;
     transform: scale(0);
+    
+    overflow: auto;
+  /* Hide the scrollbar */
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* Internet Explorer/Edge */
 }
 
 .image-overlay .right {

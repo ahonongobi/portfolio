@@ -13,7 +13,11 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css">
     <title>Ahonon gobi abyssinie parfait</title>
     <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-
+    <style>
+        ::-webkit-scrollbar {
+        display: none;
+        }
+    </style>
 </head>
 
 <script>
@@ -398,10 +402,10 @@
             <div class="resizer"></div>
         </div>
         <div class="clearfix"></div>
-        <div class="image-overlay" id="image-overlay">
+        <div style="z-index: 100;" class="image-overlay" id="image-overlay">
             <div class="fluid-container">
                 <div class="first-row-img">
-                    <span class="center-text head-over">My Image</span>
+                    <span class="center-text head-over"></span>
                     <div class="right">
                         <i class="fa fa-times" onclick="closeimg()"></i>
                     </div>
@@ -440,8 +444,39 @@
                                 <li>
                                     <h3>Name: ElioStrategy</h3>
                                     <p>Description: ElioStrategy is a web-based search engine and social network that provides users with a comprehensive view of the metal markets and their main factors. The platform employs a web crawler to gather data on minor metals, and provides detailed analyses on their supply chain, including mining projects, refining, metallurgy, substitution processes, R&D work, and recycling channels. As a full-stack developer, you built and implemented features such as user authentication, search functionality, and social sharing using PHP and MySQL. The platform also allows users to create profiles and connect with others with similar interests in the metal markets. Overall, ElioStrategy is a valuable tool for anyone interested in following and understanding the evolution of minor metal prices and their supply chain.</p>
+                                    <p>Technologies used: PHP, CSS, MySQL</p>
+                                    <p>Role: Full-stack Developer</p>
+                                </li>
+
+                                <li>
+                                    <h3>Name: Xcarbone</h3>
+                                    <p>Description: Xcarbone is a rare metal selling company based in the USA. The company offers assistance with rare earth sourcing, logistics solutions, delivery, and secure storage in Europe or Asia. Xcarbone specializes in rare metals such as Dy66 (Dysprosium), Tb65 (Terbium), Nd60 (Neodymium), Ga31 (Gallium), Eu63 (Europium), Sm62 (Samarium), Gd (Gadolinium), Yb70 (Ytterbium), and Lu71 (Lutetium).</p>
                                     <p>Technologies used: PHP, MySQL</p>
                                     <p>Role: Full-stack Developer</p>
+                                    <p>URL: <a href="https://xcarbone.com">https://xcarbone.com</a></p>
+                                </li> 
+                                <li>
+                                    <h3>Name: Asian metal</h3>
+                                    <p>Description: Asian metal exchange is a rare metal selling company based in Hong Kong. The company offers assistance with rare earth sourcing, logistics solutions, delivery, and secure storage in Europe or Asia. Xcarbone specializes in rare metals such as Dy66 (Dysprosium), Tb65 (Terbium), Nd60 (Neodymium), Ga31 (Gallium), Eu63 (Europium), Sm62 (Samarium), Gd (Gadolinium), Yb70 (Ytterbium), and Lu71 (Lutetium).</p>
+                                    <p>Technologies used: PHP, MySQL, BOOTSTRAP</p>
+                                    <p>Role: Full-stack Developer</p>
+                                    <p>URL: <a href="https://asiametalexchange.com">https://asiametalexchange.com</a></p>
+                                </li>
+
+                                <li>
+                                    <h3>Name: Je livre</h3>
+                                    <p>Description: Je Livre is a delivery mobile app designed to provide financial assistance to students during their free time. The app is developed using Flutter, which is a beautiful mobile technology that can be used on both Android and iPhone platforms.</p>
+                                    <p>Technologies used: Flutter, MySQL, LARAVEL AS API</p>
+                                    <p>Role: Full-stack Mobile Developer</p>
+                                    <p>URL: find screen as demo <a href="https://flipbookpdf.net/web/site/6817f11c50796cc73380873d2725d9d665a39c40202303.pdf.html">here</a></p>
+                                </li>
+
+                                <li>
+                                    <h3>Name: AL-TECH Transport</h3>
+                                    <p>Description: Benin Carpooling Application and Car Sales is developed using Flutter, a beautiful mobile technology that can be used on both Android and iPhone platforms. The app offers carpooling services as well as car sales to help you save money on transportation expenses. </p>
+                                    <p>Technologies used: Flutter, MySQL, LARAVEL AS API</p>
+                                    <p>Role: Full-stack Mobile Developer</p>
+                                    <p>URL: find screen as demo <a href="https://flipbookpdf.net/web/site/6e982a6583e1b56c93394653c009a88282015df6202303.pdf.html">here</a></p>
                                 </li>
                             </ul>
                         </section>
@@ -709,6 +744,27 @@
                                         <th>Esperanto, May 2020 - Present</th>
                                         <td>Ensure the dissemination of Esperanto in all African countries. Netherlands, Rotterdam</td>
                                     </tr>
+                                </table>
+                            </div>
+
+                            <div>
+                                <!-- make Certifications -->
+                                <h3>Certifications</h3>
+                                <table>
+                                    <tr>
+                                        <th>Oracle certification </th>
+                                        <td>IFRI, April 2021</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Introduction to Computer Science and Programming Using Python</th>
+                                        <td>MITx, edX, December 2020</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Introduction to Computer Science and Programming Using Python</th>
+                                        <td>MITx, edX, December 2020</td>
+                                    </tr>
+                                    
+
                                 </table>
                             </div>
 
@@ -1379,3 +1435,4 @@
 </body>
 
 </html>
+
