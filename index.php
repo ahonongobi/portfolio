@@ -1,3 +1,9 @@
+<?php
+
+include 'visitor.php';
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -12,7 +18,9 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css">
     <title>Ahonon gobi abyssinie parfait</title>
+    <!--
     <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    -->
     <style>
         ::-webkit-scrollbar {
         display: none;
@@ -478,6 +486,14 @@
                                     <p>Role: Full-stack Mobile Developer</p>
                                     <p>URL: find screen as demo <a href="https://flipbookpdf.net/web/site/6e982a6583e1b56c93394653c009a88282015df6202303.pdf.html">here</a></p>
                                 </li>
+
+                                <li>
+                                    <h3>Name: TV Remote Control </h3>
+                                    <p>Description: As a big fan of Flutter, I have coded a remote TV Control app using this beautiful mobile technology. The app allows you to control your TV remotely. </p>
+                                    <p>Technologies used: Flutter</p>
+                                    <p>Role: Full-stack Mobile Developer</p>
+                                    <p>URL: find screen as demo <a href="https://flipbookpdf.net/web/site/6e982a6583e1b56c93394653c009a88282015df6202303.pdf.html">here</a></p>
+                                </li>
                             </ul>
                         </section>
 
@@ -789,13 +805,17 @@
                 </div>
             </div>
         </div>
-
+         <style>
+            .about-overlay {
+                user-select: none;
+                }
+         </style>
 
         <div class="about-overlay" id="about-overlay">
 
             <div style="" class="fluid-container">
                 <div class="first-row-img">
-                    <span class="center-text head-over">Info about me (Welcome to my buiding window 10 Portfolio)</span>
+                    <span class="center-text head-over">Info about me (Note: This platform is still under construction.)</span>
                     <div class="right">
                         <i class="fa fa-times" onclick="closeabout()"></i>
                     </div>
@@ -839,7 +859,7 @@
 
 
         <div class="start-window-fade hidden-start" id="start-window-fade"></div>
-        <div class="start-window hidden-start" id="start-window">
+        <div style="z-index: 100" class="start-window hidden-start" id="start-window">
             <div class="fluid-container" id="container-start">
                 <div class="row">
                     <div class="col-xs-1 first-column">
