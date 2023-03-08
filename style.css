@@ -504,12 +504,13 @@ mark {
 
 .note-overlay {
     position: absolute;
-    width: 100%;
+    width: 90%;
     margin: auto;
     height: 100vh;
     top: 0;
     left: 0;
     z-index: 1;
+    margin-left: 10%;
     background-color: #111;
     padding-bottom: 40px;
     color: #fff;
