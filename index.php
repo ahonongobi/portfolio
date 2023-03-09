@@ -1,6 +1,6 @@
 <?php
 
-//include 'visitor.php';
+include 'visitor.php';
 
 ?>
 
@@ -97,14 +97,14 @@
             </div>
             <i class="fa fa-gear fa-3x gear-check"></i>
         </section>
-        <div class="overlay-computer" id="overlay-computer">
+        <div style="z-index:100" class="overlay-computer" id="overlay-computer">
             <div class="fluid-container">
                 <div class="first-row-win" id="first-row-win">
                     <div class="left">
                         <i class="fa fa-hdd-o"></i>
                         <i class="fa fa-file-o"></i>
                         <i class="fa fa-folder"></i>
-                        <span>Front End</span>
+                        <span>Front End (under construction)</span>
                     </div>
                     <div class="right">
                         <i class="fa fa-window-minimize" onclick="closeopencom()"></i>
