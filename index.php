@@ -1441,7 +1441,7 @@ include 'visitor.php';
         $(document).ready(function() {
             setTimeout(function() {
                 openabout();
-            }, 12000);
+            }, 5000);
         });
         // create function openabout()
         var aboutOverlay = document.getElementById('about-overlay');
