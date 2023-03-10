@@ -413,7 +413,7 @@ include 'visitor.php';
         <div style="z-index: 100;" class="image-overlay" id="image-overlay">
             <div class="fluid-container">
                 <div class="first-row-img">
-                    <span class="center-text head-over"></span>
+                    <span class="center-text head-over"><i class="fa fa-times" onclick="closeimg()"></i></span>
                     <div class="right">
                         <i class="fa fa-times" onclick="closeimg()"></i>
                     </div>
@@ -514,7 +514,10 @@ include 'visitor.php';
                         </section>
 
                     </div>
-                    <img src="" class="center-block img-responsive" style="height:80vh" alt="">
+                    <div style="margin-top: 5%;">
+
+                    </div>
+                    <img style="display: none;" src="" class="center-block img-responsive d-none" style="height:80vh" alt="">
                 </div>
             </div>
         </div>
@@ -706,6 +709,7 @@ include 'visitor.php';
                         </table>
 
                         <section>
+                            
                             <h2>Projects</h2>
                             <ul>
                                 <li>
