@@ -50,10 +50,10 @@ include 'visitor.php';
         <div style="z-index: 99;" class="main">
             <!-- the last i did  ondblclick="opencom0()" -->
             <div class="left">
-                <div ondblclick="opennote()" class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="folder1"><i class="fa fa-folder" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i>
+                <div onclick="opennote()" class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="folder1"><i class="fa fa-folder" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i>
                     <p>My cv</p>
                 </div>
-                <div ondblclick="openimg()" class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="folder2"><i class="fa fa-folder" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i>
+                <div onclick="openimg()" class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="folder2"><i class="fa fa-folder" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i>
                     <p>My Projects</p>
                 </div>
 
@@ -61,7 +61,7 @@ include 'visitor.php';
 
             <div class="left">
 
-                <div ondblclick="openvid()" class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="folder4"><i class="fa fa-folder" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i>
+                <div onclick="openvid()" class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="folder4"><i class="fa fa-folder" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i>
                     <p>Works Experience</p>
                 </div>
                 <div  class="top-droppable folder tooltiper tooltiper-up" data-tooltip="0 file" id="mySizeChart"><i style="font-size: 90px;" class="fa fa-newspaper-o mt-2" aria-hidden="true"></i><i class="fa fa-check" aria-hidden="true"></i>
