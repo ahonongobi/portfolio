@@ -511,7 +511,37 @@ include 'visitor.php';
                                     <p>Role: Full-stack Developer</p>
                                     <p>URL: <a href="https://www.benin-cars.com/">https://www.benin-cars.com</a> (domain soon expired)</p>
                                 </li> 
+                                <li>
+                                    <h3>Name: Chat win server </h3>
+                                    <p>Description: chat win server a video chat app that makes it easy to groups up with people you want to meet. Fell free to contribute on my project. </p>
+                                    <p>Technologies used: NodeJS, Socket.io, and Peerjs(WebRTC)</p>
+                                    
+                                    <p>URL: <a href="https://github.com/ahonongobi/chatwinserver.git">https://github.com/ahonongobi/chatwinserver.git</a></p>
+                                </li> 
+                            </ul> 
+                            <h2>Esperanto related project</h2>
+                            <ul>
+                            <li>
+                                    <h3>Name: Esperanto centroj </h3>
+                                    <p>Description: This website presents Esperanto centers from all over the world. It is established jointly by the Universal Esperanto Association (UEA) in Rotterdam and the International League of Esperantist Teachers (ILEI). It enables one to learn about all centers, their activities, offerings, and features. Each Esperanto center can acquire a page and sub-menu on the website. There, the responsible persons of the center, using a personal passport, can continually add donations, information, action programs, and other important information. Public users can read the entire website without adding anything, consult the page. </p>
+                                    <p>Technologies used: Laravel</p>
+                                    <p>Role: I'm the Fullstack Developer and Mirejo Grosjean the manager</p>
+                                    <p>URL: <a href="https://esperanto-centroj.com/">https://esperanto-centroj.com</a></p>
+                                </li> 
                             </ul>
+                            <h2>Mes contributions open source</h2>
+                            <ul>
+                            <li>
+                                    <h3>Name: Flutter Fr space </h3>
+                                    <p>Description: As a member and co-founder of Flutter Fr Space, our organization focuses on teaching mobile development based on Flutter. In 2021, we created Youtube content for Flutter courses and moderated a Telegram group to answer questions and share ideas with our online community. </p>
+                                    <p>Technologies used: Flutter</p>
+                                    <p>Role: Mobile Developer</p>
+                                    <p>URL: <a href="https://github.com/Flutter-fr-space">https://github.com/Flutter-fr-space</a></p>
+                                </li> 
+                            </ul>
+
+                            <span>
+                            As a computer science enthusiast, I build and write code every day, which has led me to work on many projects. For more project, I suggest you check out my GitHub account here: <a href="https://github.com/ahonongobi">https://github.com/ahonongobi</a>.                            </span>
                         </section>
 
                     </div>
