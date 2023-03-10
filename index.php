@@ -493,7 +493,23 @@ include 'visitor.php';
                                     <p>Technologies used: Flutter</p>
                                     <p>Role: Full-stack Mobile Developer</p>
                                     <p>URL: find screen as demo <a href="https://flipbookpdf.net/web/site/6e982a6583e1b56c93394653c009a88282015df6202303.pdf.html">here</a></p>
-                                </li>
+                                </li> BDSM Paris Rencontres BDSM à Paris
+
+                                <li>
+                                    <h3>Name: BDSM Paris </h3>
+                                    <p>Description: The BDSM Paris dating site in Paris was initially designed using Laravel as the framework. However, at some point, the client demanded an update and a complete overhaul of the site, with the use of WordPress as the development platform. This migration to WordPress required a complete rewrite of the code, the addition of new features, and the implementation of a new design to meet the client's requirements and improve the user experience of the site. Despite the technical challenges encountered during this migration, I was able to deliver the project within the given timeline, and the BDSM Paris dating site in Paris is now operational on WordPress. </p>
+                                    <p>Technologies used: Wordpress(latest version), Laravel(old version)</p>
+                                    <p>Role: Full-stack Developer</p>
+                                    <p>URL: <a href="https://www.bdsmparis.com/">https://www.bdsmparis.com</a></p>
+                                </li> 
+
+                                <li>
+                                    <h3>Name: Benin Cars </h3>
+                                    <p>Description: Benin Cars is an online car sales platform with a physical location in Cotonou. The client, who is of Beninese origin, is based in the USA. This project showcases the cars available in the company and highlights the convenience of purchasing them online. With the rise of e-commerce, Benin Cars has made it easier for customers to browse and purchase their dream car from anywhere in the world. The website features a wide range of cars, including both brand new and used models, with detailed information about each car's specifications, features, and price. Additionally, the website provides customers with access to financing options, enabling them to purchase their desired car with ease. Through its seamless user experience and commitment to quality customer service, Benin Cars has become a trusted name in the online car sales industry. </p>
+                                    <p>Technologies used: Laravel & ReactJS</p>
+                                    <p>Role: Full-stack Developer</p>
+                                    <p>URL: <a href="https://www.benin-cars.com/">https://www.benin-cars.com</a> (domain soon expired)</p>
+                                </li> 
                             </ul>
                         </section>
 
@@ -775,10 +791,7 @@ include 'visitor.php';
                                         <th>Introduction to Computer Science and Programming Using Python</th>
                                         <td>MITx, edX, December 2020</td>
                                     </tr>
-                                    <tr>
-                                        <th>Introduction to Computer Science and Programming Using Python</th>
-                                        <td>MITx, edX, December 2020</td>
-                                    </tr>
+                                    
                                     
 
                                 </table>
@@ -1289,6 +1302,43 @@ include 'visitor.php';
 
         </div>
        <!-- Modal for research -->
+
+       <!-- Modal for research IA -->
+       <div style="z-index: 100;" id="mySizeChartModal2" class="ebcf_modal ">
+
+<div class="ebcf_modal-content">
+    <span class="ebcf_close2">&times;</span>
+    <div style="text-align: center; background-color: #f5f5f5; padding: 10px;">
+    <a href="?view=50">View by approximately 5 viewer</a>
+   </div>
+    <h1>The Importance of IA in Modern Society</h1>
+    <h2>Abstract</h2>
+    <p>Software engineering has become an essential part of modern society, with virtually every aspect of our daily lives relying on software to function properly. From smartphones and social media platforms to medical devices and self-driving cars, software is embedded in virtually every aspect of our lives. As such, it is critical that software engineering practices are robust, efficient, and reliable, in order to ensure that the software we rely on is safe and secure.</p>
+
+    <h2>Introduction</h2>
+    <p>Software engineering is the process of designing, developing, testing, and maintaining software systems. In the modern world, software engineering has become an essential part of daily life, with software systems embedded in virtually every aspect of modern society. From smartphones and social media platforms to medical devices and self-driving cars, software is now an integral part of the way we live, work, and interact with the world.</p>
+
+    <p>As software systems have become more complex and more interconnected, the importance of software engineering has only increased. Software engineering practices are critical to ensuring that software is developed efficiently, reliably, and securely, and that it meets the needs of users and stakeholders. In this article, we explore the key concepts and principles of software engineering, the challenges facing the field today, and the most promising trends in software engineering.</p>
+
+    <h2>Key Concepts and Principles</h2>
+    <p>The key concepts and principles of software engineering are based on a set of well-established best practices that have evolved over several decades. These include the use of formal methods and techniques to model and design software systems, the use of agile development practices to enable rapid iteration and feedback, and the use of automated testing and continuous integration to ensure that software is developed and tested efficiently and reliably.</p>
+
+    <p>In addition, software engineering emphasizes the importance of software quality, security, and maintainability. Software quality refers to the degree to which a software system meets its requirements and specifications, while software security refers to the measures taken to protect software systems from cyber attacks and other security threats. Finally, software maintainability refers to the ease with which software systems can be updated, modified, and adapted to changing user needs and requirements.</p>
+
+    <h2>Challenges Facing Software Engineering</h2>
+    <p>Despite the many benefits of software engineering, the field faces a number of challenges that must be addressed in order to ensure that software systems are safe, secure, and reliable. One of the key challenges facing software engineering is the increasing complexity of software systems. As software systems become more complex and more interconnected, it becomes more difficult to develop and maintain them effectively.</p>
+
+    <p>In addition, software engineering faces challenges related to cybersecurity. With cyber attacks becoming increasingly sophisticated and frequent, software engineers must be vigilant in their efforts to protect software systems from security threats. Finally, software engineering faces challenges related to scalability, particularly as software systems become more distributed and more reliant on cloud-based technologies.</p>
+
+    <h2>Trends in Software Engineering</h2>
+    <p>Despite these challenges, there are many promising trends in software engineering that are helping to improve the efficiency, reliability, and security of software systems. One of the most promising trends is agile development, which emphasizes rapid iteration and feedback to enable software to be developed and tested quickly and efficiently. Another promising trend is DevOps, which focuses on integrating software development and operations to streamline the software development process.</p>
+
+    <p>Finally, machine learning is another trend that is having a significant impact on software engineering. By using machine learning algorithms to analyze and model large datasets, software engineers are able to develop more efficient and effective software systems, particularly in areas such as natural language processing and computer vision. </p>
+
+</div>
+
+</div>
+<!-- Modal for research IA -->
 
         <footer class="nav navbar-inverse navbar-fixed-bottom footer text-center">
             <div class="fluid-container">

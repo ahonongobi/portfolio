@@ -1065,6 +1065,13 @@ body {
     font-size: 28px;
     font-weight: bold;
 }
+.ebcf_close2 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+}
 
 .ebcf_close:hover,
 .ebcf_close:focus {
