@@ -541,7 +541,7 @@ include 'visitor.php';
                             </ul>
 
                             <span>
-                            As a computer science enthusiast, I build and write code every day, which has led me to work on many projects. For more project, I suggest you check out my GitHub account here: <a href="https://github.com/ahonongobi">https://github.com/ahonongobi</a>.                            </span>
+                            As a computer science enthusiast, I build and write code every day, which has led me to work on many projects. For more project, I suggest you check out my GitHub account here: <a target="_blank" href="https://github.com/ahonongobi">https://github.com/ahonongobi</a>.                            </span>
                         </section>
 
                     </div>
