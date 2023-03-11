@@ -882,7 +882,7 @@ include 'visitor.php';
                         <p>In my free time, I enjoy exploring new technologies, contributing to open-source projects, and sharing my knowledge through online communities and forums. I am always looking for new challenges and opportunities to grow my skills and make a positive impact in the tech industry.</p>
                         <p>My biggest dream is to be admitted to a master's degree program in computer science in Switzerland and gain valuable experience working alongside professors such as <b>Prof. Dr. Michel Rothlin, Meier René, Prof. Dr. Gregor Burkhard, and Koller Thomas</b>.</p>
                         <a href="mailto:contact@gobi-abyssinie.tech">👉 Send me message</a>
-                        <a style="display: none;" ondblclick="openimg()">👉 Checkout some of my work</a>
+                        <a style="display: nonse;" onclick="openimg()">👉 Checkout some of my work</a>
 
                         <h1>Don't miss to read my personal statement!</h1>
 
@@ -901,6 +901,7 @@ include 'visitor.php';
                         <div>
                             <img style="width: 100%; height:100%" src="d12047a6-77d4-4c71-a1cf-3ccc9165942f.jpg" alt="" srcset="">
                         </div>
+                        <a style="display: nonse;" onclick="openimg()">👉 Check out my realization here.</a>
 
                     </div>
                 </div>

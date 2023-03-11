@@ -143,6 +143,11 @@ var imageOverlay = document.getElementById("image-overlay");
 function openimg() {
   imageOverlay.style.transform = "scale(1)";
   document.getElementById("a2").style.display = "block";
+
+  aboutOverlay.style.transform = "scale(0)";
+  document.getElementById("a5").style.display = "none";
+  
+
 }
 
 function closeimg() {
@@ -155,7 +160,13 @@ function openabout() {
   aboutOverlay.style.transform = "scale(1)";
   document.getElementById("a5").style.display = "block";
 }
-
+// close aboutOverlay when user click outside of it
+window.onclick = function (event) {
+  if (event.target == aboutOverlay) {
+    aboutOverlay.style.transform = "scale(0)";
+    document.getElementById("a5").style.display = "none";
+  }
+};
 function closeabout() {
   aboutOverlay.style.transform = "scale(0)";
   document.getElementById("a5").style.display = "none";
