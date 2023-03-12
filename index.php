@@ -428,7 +428,7 @@ include 'visitor.php';
                                     <h3>Name: Job platform</h3>
                                     <p>Description: Created a web and mobile app using Laravel, NodeJS, and Docker to connect students in Benin with scholarships and internships. As a full-stack developer, I built and implemented features including user authentication, search functionality, and external API integration. App has helped over 2000 students find educational opportunities.</p>
                                     <p>Technologies used: Laravel, NodeJS, Docker</p>
-                                    <p>URL: <a href="https://jobs.uac.bj/">https://jobs.uac.bj/</a></p>
+                                    <p>URL: <a target="_blank" href="https://jobs.uac.bj/">https://jobs.uac.bj/</a></p>
                                 </li>
                                 <li>
                                     <h3>Name: Crowdfunding</h3>
@@ -438,7 +438,7 @@ include 'visitor.php';
                                 </li>
                                 <li>
                                     <h3>Name: E-health</h3>
-                                    <p>Description: Developed a web-based telemedicine software for CHU France using Laravel and JavaScript. The software has been used by over 5000 patients through the <a href="https://cloud-respidom.com">https://cloud-respidom.com</a> platform.</p>
+                                    <p>Description: Developed a web-based telemedicine software for CHU France using Laravel and JavaScript. The software has been used by over 5000 patients through the <a target="_blank" href="https://cloud-respidom.com">https://cloud-respidom.com</a> platform.</p>
                                     <p>Technologies used: Laravel, JavaScript</p>
                                     <p>Role: Full-stack Developer</p>
                                 </li>
@@ -454,7 +454,7 @@ include 'visitor.php';
                                     <p>Description: ElioStrategy is a web-based search engine and social network that provides users with a comprehensive view of the metal markets and their main factors. The platform employs a web crawler to gather data on minor metals, and provides detailed analyses on their supply chain, including mining projects, refining, metallurgy, substitution processes, R&D work, and recycling channels. As a full-stack developer, you built and implemented features such as user authentication, search functionality, and social sharing using PHP and MySQL. The platform also allows users to create profiles and connect with others with similar interests in the metal markets. Overall, ElioStrategy is a valuable tool for anyone interested in following and understanding the evolution of minor metal prices and their supply chain.</p>
                                     <p>Technologies used: PHP, CSS, MySQL</p>
                                     <p>Role: Full-stack Developer</p>
-                                    <p>URL: <a href="https://eliostrategy.com">https://eliostrategy.com</a></p>
+                                    <p>URL: <a target="_blank" href="https://eliostrategy.com">https://eliostrategy.com</a></p>
                                 </li>
 
                                 <li>
@@ -462,14 +462,14 @@ include 'visitor.php';
                                     <p>Description: Xcarbone is a rare metal selling company based in the USA. The company offers assistance with rare earth sourcing, logistics solutions, delivery, and secure storage in Europe or Asia. Xcarbone specializes in rare metals such as Dy66 (Dysprosium), Tb65 (Terbium), Nd60 (Neodymium), Ga31 (Gallium), Eu63 (Europium), Sm62 (Samarium), Gd (Gadolinium), Yb70 (Ytterbium), and Lu71 (Lutetium).</p>
                                     <p>Technologies used: PHP, MySQL</p>
                                     <p>Role: Full-stack Developer</p>
-                                    <p>URL: <a href="https://xcarbone.com">https://xcarbone.com</a></p>
+                                    <p>URL: <a target="_blank" href="https://xcarbone.com">https://xcarbone.com</a></p>
                                 </li> 
                                 <li>
                                     <h3>Name: Asian metal</h3>
                                     <p>Description: Asian metal exchange is a rare metal selling company based in Hong Kong. The company offers assistance with rare earth sourcing, logistics solutions, delivery, and secure storage in Europe or Asia. Xcarbone specializes in rare metals such as Dy66 (Dysprosium), Tb65 (Terbium), Nd60 (Neodymium), Ga31 (Gallium), Eu63 (Europium), Sm62 (Samarium), Gd (Gadolinium), Yb70 (Ytterbium), and Lu71 (Lutetium).</p>
                                     <p>Technologies used: PHP, MySQL, BOOTSTRAP</p>
                                     <p>Role: Full-stack Developer</p>
-                                    <p>URL: <a href="https://asiametalexchange.com">https://asiametalexchange.com</a></p>
+                                    <p>URL: <a target="_blank" href="https://asiametalexchange.com">https://asiametalexchange.com</a></p>
                                 </li>
 
                                 <li>
@@ -477,7 +477,7 @@ include 'visitor.php';
                                     <p>Description: Je Livre is a delivery mobile app designed to provide financial assistance to students during their free time. The app is developed using Flutter, which is a beautiful mobile technology that can be used on both Android and iPhone platforms.</p>
                                     <p>Technologies used: Flutter, MySQL, LARAVEL AS API</p>
                                     <p>Role: Full-stack Mobile Developer</p>
-                                    <p>URL: find screen as demo <a href="https://flipbookpdf.net/web/site/6817f11c50796cc73380873d2725d9d665a39c40202303.pdf.html">here</a></p>
+                                    <p>URL: find screen as demo <a target="_blank" href="https://flipbookpdf.net/web/site/6817f11c50796cc73380873d2725d9d665a39c40202303.pdf.html">here</a></p>
                                 </li>
 
                                 <li>
@@ -485,7 +485,7 @@ include 'visitor.php';
                                     <p>Description: Benin Carpooling Application and Car Sales is developed using Flutter, a beautiful mobile technology that can be used on both Android and iPhone platforms. The app offers carpooling services as well as car sales to help you save money on transportation expenses. </p>
                                     <p>Technologies used: Flutter, MySQL, LARAVEL AS API</p>
                                     <p>Role: Full-stack Mobile Developer</p>
-                                    <p>URL: find screen as demo <a href="https://flipbookpdf.net/web/site/6e982a6583e1b56c93394653c009a88282015df6202303.pdf.html">here</a></p>
+                                    <p>URL: find screen as demo <a target="_blank" href="https://flipbookpdf.net/web/site/6e982a6583e1b56c93394653c009a88282015df6202303.pdf.html">here</a></p>
                                 </li>
 
                                 <li>
@@ -493,7 +493,7 @@ include 'visitor.php';
                                     <p>Description: As a big fan of Flutter, I have coded a remote TV Control app using this beautiful mobile technology. The app allows you to control your TV remotely. </p>
                                     <p>Technologies used: Flutter</p>
                                     <p>Role: Full-stack Mobile Developer</p>
-                                    <p>URL: find screen as demo <a href="https://flipbookpdf.net/web/site/6e982a6583e1b56c93394653c009a88282015df6202303.pdf.html">here</a></p>
+                                    <p>URL: find screen as demo <a target="_blank" href="https://flipbookpdf.net/web/site/6e982a6583e1b56c93394653c009a88282015df6202303.pdf.html">here</a></p>
                                 </li> 
 
                                 <li>
@@ -501,7 +501,7 @@ include 'visitor.php';
                                     <p>Description: The BDSM Paris dating site in Paris was initially designed using Laravel as the framework. However, at some point, the client demanded an update and a complete overhaul of the site, with the use of WordPress as the development platform. This migration to WordPress required a complete rewrite of the code, the addition of new features, and the implementation of a new design to meet the client's requirements and improve the user experience of the site. Despite the technical challenges encountered during this migration, I was able to deliver the project within the given timeline, and the BDSM Paris dating site in Paris is now operational on WordPress. </p>
                                     <p>Technologies used: Wordpress(latest version), Laravel(old version)</p>
                                     <p>Role: Full-stack Developer</p>
-                                    <p>URL: <a href="https://www.bdsmparis.com/">https://www.bdsmparis.com</a></p>
+                                    <p>URL: <a target="_blank" href="https://www.bdsmparis.com/">https://www.bdsmparis.com</a></p>
                                 </li> 
 
                                 <li>
@@ -509,14 +509,14 @@ include 'visitor.php';
                                     <p>Description: Benin Cars is an online car sales platform with a physical location in Cotonou. The client, who is of Beninese origin, is based in the USA. This project showcases the cars available in the company and highlights the convenience of purchasing them online. With the rise of e-commerce, Benin Cars has made it easier for customers to browse and purchase their dream car from anywhere in the world. The website features a wide range of cars, including both brand new and used models, with detailed information about each car's specifications, features, and price. Additionally, the website provides customers with access to financing options, enabling them to purchase their desired car with ease. Through its seamless user experience and commitment to quality customer service, Benin Cars has become a trusted name in the online car sales industry. </p>
                                     <p>Technologies used: Laravel & ReactJS</p>
                                     <p>Role: Full-stack Developer</p>
-                                    <p>URL: <a href="https://www.benin-cars.com/">https://www.benin-cars.com</a> (domain soon expired)</p>
+                                    <p>URL: <a target="_blank" href="https://www.benin-cars.com/">https://www.benin-cars.com</a> (domain soon expired)</p>
                                 </li> 
                                 <li>
                                     <h3>Name: Chat win server </h3>
                                     <p>Description: chat win server a video chat app that makes it easy to groups up with people you want to meet. Fell free to contribute on my project. </p>
                                     <p>Technologies used: NodeJS, Socket.io, and Peerjs(WebRTC)</p>
                                     
-                                    <p>URL: <a href="https://github.com/ahonongobi/chatwinserver.git">https://github.com/ahonongobi/chatwinserver.git</a></p>
+                                    <p>URL: <a target="_blank" href="https://github.com/ahonongobi/chatwinserver.git">https://github.com/ahonongobi/chatwinserver.git</a></p>
                                 </li> 
                             </ul> 
                             <h2>Esperanto related project</h2>
@@ -526,7 +526,7 @@ include 'visitor.php';
                                     <p>Description: This website presents Esperanto centers from all over the world. It is established jointly by the Universal Esperanto Association (UEA) in Rotterdam and the International League of Esperantist Teachers (ILEI). It enables one to learn about all centers, their activities, offerings, and features. Each Esperanto center can acquire a page and sub-menu on the website. There, the responsible persons of the center, using a personal passport, can continually add donations, information, action programs, and other important information. Public users can read the entire website without adding anything, consult the page. </p>
                                     <p>Technologies used: Laravel</p>
                                     <p>Role: I'm the Fullstack Developer and Mirejo Grosjean the manager</p>
-                                    <p>URL: <a href="https://esperanto-centroj.com/">https://esperanto-centroj.com</a></p>
+                                    <p>URL: <a target="_blank" href="https://esperanto-centroj.com/">https://esperanto-centroj.com</a></p>
                                 </li> 
                             </ul>
                             <h2>Mes contributions open source</h2>
@@ -536,7 +536,7 @@ include 'visitor.php';
                                     <p>Description: As a member and co-founder of Flutter Fr Space, our organization focuses on teaching mobile development based on Flutter. In 2021, we created Youtube content for Flutter courses and moderated a Telegram group to answer questions and share ideas with our online community. </p>
                                     <p>Technologies used: Flutter</p>
                                     <p>Role: Mobile Developer</p>
-                                    <p>URL: <a href="https://github.com/Flutter-fr-space">https://github.com/Flutter-fr-space</a></p>
+                                    <p>URL: <a target="_blank" href="https://github.com/Flutter-fr-space">https://github.com/Flutter-fr-space</a></p>
                                 </li> 
                             </ul>
 
@@ -698,7 +698,7 @@ include 'visitor.php';
                                     <ul>
                                         <li>CTO and Lead Developer at INTELLIGENCIA SI (since 2022)</li>
                                         <li>Designed web and mobile platforms for online learning, e-commerce, and product showcasing.</li>
-                                        <li>Directed IT projects, including the design and implementation of <a href="https://eliostrategy.com">https://eliostrategy.com</a>, <a href="https://cvscan.uk/fr/">https://cvscan.uk/fr/</a>, and <a href="https://aplahoue-tourisme.com">https://aplahoue-tourisme.com</a>.</li>
+                                        <li>Directed IT projects, including the design and implementation of <a target="_blank" href="https://eliostrategy.com">https://eliostrategy.com</a>, <a target="_blank" href="https://cvscan.uk/fr/">https://cvscan.uk/fr/</a>, and <a target="_blank" href="https://aplahoue-tourisme.com">https://aplahoue-tourisme.com</a>.</li>
                                         <li>Configured remote servers to store, manage, and process data.</li>
                                         <li>Developed an automatic detection system for stolen electrical objects using communicating chips and artificial intelligence software.</li>
                                     </ul>
@@ -710,7 +710,7 @@ include 'visitor.php';
                                     <ul>
                                         <li>Application Developer at MASTERCARD FOUNDATION (2021-2022)</li>
                                         <li>Secured a one-year internship at MASTERCARD FOUNDATION after winning a web and mobile application development competition for the dissemination of professional opportunities for students in Benin.</li>
-                                        <li>Designed and developed a web and mobile platform for the dissemination of professional opportunities at the University of Abomey-Calavi, which can be found at <a href="https://jobs.uac.bj">https://jobs.uac.bj</a>.</li>
+                                        <li>Designed and developed a web and mobile platform for the dissemination of professional opportunities at the University of Abomey-Calavi, which can be found at <a target="_blank" href="https://jobs.uac.bj">https://jobs.uac.bj</a>.</li>
                                         <li>Conducted unit and functional testing of the system developed for student registrations at uac.bj.</li>
                                     </ul>
                                 </td>
@@ -747,7 +747,7 @@ include 'visitor.php';
                                     <h3>Name: Job platform</h3>
                                     <p>Description: Created a web and mobile app using Laravel, NodeJS, and Docker to connect students in Benin with scholarships and internships. As a full-stack developer, I built and implemented features including user authentication, search functionality, and external API integration. App has helped over 2000 students find educational opportunities.</p>
                                     <p>Technologies used: Laravel, NodeJS, Docker</p>
-                                    <p>URL: <a href="https://jobs.uac.bj/">https://jobs.uac.bj/</a></p>
+                                    <p>URL: <a target="_blank" href="https://jobs.uac.bj/">https://jobs.uac.bj/</a></p>
                                 </li>
                                 <li>
                                     <h3>Name: Crowdfunding</h3>
@@ -757,7 +757,7 @@ include 'visitor.php';
                                 </li>
                                 <li>
                                     <h3>Name: E-health</h3>
-                                    <p>Description: Developed a web-based telemedicine software for CHU France using Laravel and JavaScript. The software has been used by over 5000 patients through the <a href="https://cloud-respidom.com">https://cloud-respidom.com</a> platform.</p>
+                                    <p>Description: Developed a web-based telemedicine software for CHU France using Laravel and JavaScript. The software has been used by over 5000 patients through the <a target="_blank" href="https://cloud-respidom.com">https://cloud-respidom.com</a> platform.</p>
                                     <p>Technologies used: Laravel, JavaScript</p>
                                     <p>Role: Full-stack Developer</p>
                                 </li>
