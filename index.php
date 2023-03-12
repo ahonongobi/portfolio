@@ -959,7 +959,7 @@ include 'visitor.php';
                         <p>Aside from my technical skills, I possess excellent soft skills such as teamwork, problem-solving, time management, event management, public speaking, multitasking, organization, and teaching, which have enabled me to work effectively with clients, collaborate with team members, and manage multiple projects simultaneously.</p>
                         <p>I am also fluent in several languages, including French, English, Esperanto, Adja, and Fon, and enjoy volunteering my time to help promote the dissemination of Esperanto in African countries.</p>
                         <p>Overall, my passion for technology and my commitment to providing innovative solutions make me a valuable asset to any team, and I look forward to contributing my skills and expertise to new and exciting projects in the future.</p>
-                         <h1>Domain of interest</h1>
+                         <h1>The Topics I Envision in My Dreams</h1>
                         <div>
                             <img style="width: 100%; height:100%" src="d12047a6-77d4-4c71-a1cf-3ccc9165942f.jpg" alt="" srcset="">
                         </div>
