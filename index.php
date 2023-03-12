@@ -681,6 +681,19 @@ include 'visitor.php';
                                         </ul>
                                     </td>
                                 </tr>
+
+                                <tr>
+                                    <td>2015-2018</td>
+                                    <td>
+                                        <ul>
+                                            <li>Mentoring in Mathematics and Physics</li>
+                                            <li>Organizing directed work sessions for students in scientific examination classes.</li>
+                                            <li>Helped many students by explaining Mathematics, Physics, Chemistry, and English as I was a versatile student. Many of my old classmates can attest to this.</li>
+
+
+                                        </ul>
+                                    </td>
+                                </tr>
                             </table>
 
                         </section>
