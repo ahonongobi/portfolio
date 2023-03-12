@@ -424,6 +424,13 @@ include 'visitor.php';
                         <section>
                             <h2>Projects</h2>
                             <ul>
+                            <li>
+                                    <h3>Name: ElioStrategy</h3>
+                                    <p>Description: ElioStrategy is a web-based search engine and social network that provides users with a comprehensive view of the metal markets and their main factors. The platform employs a web crawler to gather data on minor metals, and provides detailed analyses on their supply chain, including mining projects, refining, metallurgy, substitution processes, R&D work, and recycling channels. As a full-stack developer, you built and implemented features such as user authentication, search functionality, and social sharing using PHP and MySQL. The platform also allows users to create profiles and connect with others with similar interests in the metal markets. Overall, ElioStrategy is a valuable tool for anyone interested in following and understanding the evolution of minor metal prices and their supply chain.</p>
+                                    <p>Technologies used: PHP, CSS, MySQL</p>
+                                    <p>Role: Full-stack Developer</p>
+                                    <p>URL: <a target="_blank" href="https://eliostrategy.com">https://eliostrategy.com</a></p>
+                                </li>
                                 <li>
                                     <h3>Name: Job platform</h3>
                                     <p>Description: Created a web and mobile app using Laravel, NodeJS, and Docker to connect students in Benin with scholarships and internships. As a full-stack developer, I built and implemented features including user authentication, search functionality, and external API integration. App has helped over 2000 students find educational opportunities.</p>
@@ -449,13 +456,7 @@ include 'visitor.php';
                                     <p>Role: Full-stack Developer</p>
                                 </li>
 
-                                <li>
-                                    <h3>Name: ElioStrategy</h3>
-                                    <p>Description: ElioStrategy is a web-based search engine and social network that provides users with a comprehensive view of the metal markets and their main factors. The platform employs a web crawler to gather data on minor metals, and provides detailed analyses on their supply chain, including mining projects, refining, metallurgy, substitution processes, R&D work, and recycling channels. As a full-stack developer, you built and implemented features such as user authentication, search functionality, and social sharing using PHP and MySQL. The platform also allows users to create profiles and connect with others with similar interests in the metal markets. Overall, ElioStrategy is a valuable tool for anyone interested in following and understanding the evolution of minor metal prices and their supply chain.</p>
-                                    <p>Technologies used: PHP, CSS, MySQL</p>
-                                    <p>Role: Full-stack Developer</p>
-                                    <p>URL: <a target="_blank" href="https://eliostrategy.com">https://eliostrategy.com</a></p>
-                                </li>
+                                
 
                                 <li>
                                     <h3>Name: Xcarbone</h3>
