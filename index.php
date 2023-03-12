@@ -520,6 +520,12 @@ include 'visitor.php';
                                     <p>URL: <a target="_blank" href="https://github.com/ahonongobi/chatwinserver.git">https://github.com/ahonongobi/chatwinserver.git</a></p>
                                 </li> 
 
+                                <li>
+                                <h3>Title: Design and Implementation of a Database for Managing Student Registrations at the University of Abomey Calavi (UAC)</h3>
+                                    <p>Description: Managing student registrations at UAC involves handling a large amount of information such as student personal information, chosen courses, and tuition fees. During my academic internship at SPTIC, we designed and implemented a database for managing student registrations at UAC using the MySQL database management system. We also developed a user-friendly interface for managing student information.</p>
+                                    <p>Methodology: We started by modeling the entities and relationships between the different objects at UAC, such as students, courses, and tuition fees, using the Entity-Relationship method. We then used the model to design a relational database using the MySQL database management system.</p>
+                                </li>
+
                                 
                             </ul> 
                             <h2>Esperanto related project</h2>
