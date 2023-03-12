@@ -597,14 +597,20 @@ include 'visitor.php';
                             </ul>
 
                             <span>
-                            As a computer science enthusiast, I build and write code every day, which has led me to work on many projects. For more project, I suggest you check out my GitHub account here: <a target="_blank" href="https://github.com/ahonongobi">https://github.com/ahonongobi</a>.                            </span>
+                            As a computer science enthusiast, I build and write code every day, which has led me to work on many projects. For more project, I suggest you check out my GitHub account here: <a target="_blank" href="https://github.com/ahonongobi">https://github.com/ahonongobi</a>.                           
+                           </span> <br> <br>
+                           <a style="text-decoration: underline; cursor:pointer; color:#fff; font-size:20px;" onclick="closeimg()"><i class="fa fa-arrow-left"></i>Go back</a>
+
                         </section>
+                        
 
                     </div>
                     <div style="margin-top: 5%;">
 
                     </div>
                     <img style="display: none;" src="" class="center-block img-responsive d-none" style="height:80vh" alt="">
+
+
                 </div>
             </div>
         </div>
