@@ -553,7 +553,7 @@ include 'visitor.php';
             </div>
         </div>
 
-        <div class="video-overlay" id="video-overlay">
+        <div style="z-index:100;" class="video-overlay" id="video-overlay">
             <div class="fluid-container">
                 <div class="first-row-vid">
 
@@ -864,7 +864,7 @@ include 'visitor.php';
             <div style="" class="fluid-container">
                 <div class="first-row-img">
                     <span class="center-text head-over">Info about me (Note: This platform is still under construction.)</span>
-                    <div class="right">
+                    <div  class="right">
                         <i class="fa fa-times" onclick="closeabout()"></i>
                     </div>
                     <div class="clearfix"></div>
@@ -1481,6 +1481,7 @@ include 'visitor.php';
             setTimeout(function() {
                 openabout();
             }, 5000);
+            
         });
         // create function openabout()
         var aboutOverlay = document.getElementById('about-overlay');
