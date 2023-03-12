@@ -518,6 +518,8 @@ include 'visitor.php';
                                     
                                     <p>URL: <a target="_blank" href="https://github.com/ahonongobi/chatwinserver.git">https://github.com/ahonongobi/chatwinserver.git</a></p>
                                 </li> 
+
+                                
                             </ul> 
                             <h2>Esperanto related project</h2>
                             <ul>
@@ -531,13 +533,66 @@ include 'visitor.php';
                             </ul>
                             <h2>Mes contributions open source</h2>
                             <ul>
-                            <li>
+                                <li>
                                     <h3>Name: Flutter Fr space </h3>
                                     <p>Description: As a member and co-founder of Flutter Fr Space, our organization focuses on teaching mobile development based on Flutter. In 2021, we created Youtube content for Flutter courses and moderated a Telegram group to answer questions and share ideas with our online community. </p>
                                     <p>Technologies used: Flutter</p>
                                     <p>Role: Mobile Developer</p>
                                     <p>URL: <a target="_blank" href="https://github.com/Flutter-fr-space">https://github.com/Flutter-fr-space</a></p>
                                 </li> 
+
+                                <li>
+                                    <h3>Project of Code</h3>
+                                    <p>Description: This project was initiated by me as CTO and G. Lewis, CEO at INTELLIGENCIA SI. The goal of the project was to introduce high school and college students in Benin to technology, specifically programming. Students who met the following requirements were eligible to participate:</p>
+                                    <ul>
+                                        <li>Must be in 2nd, 1st or Tle</li>
+                                        <li>Must be in the top 10 of their class</li>
+                                    </ul>
+                                    <p>At the end of the project, the best students were selected during a competition, with prizes such as 1 million FCFA and a new computer being awarded to the winners and so others prizes.</p>
+                                    <p>Role: Teacher and Organizer</p>
+                                    <p>Technologies involved: Java EE</p>
+                                    </li> <li>
+                                    <h3>Project of Code</h3>
+                                    <p>Description: This project was initiated by me as CTO and G. Lewis, CEO at INTELLIGENCIA SI. The goal of the project was to introduce high school and college students in Benin to technology, specifically programming. Students who met the following requirements were eligible to participate:</p>
+                                    <ul>
+                                        <li>Must be in 2nd, 1st or Tle</li>
+                                        <li>Must be in the top 10 of their class</li>
+                                    </ul>
+                                    <p>At the end of the project, the best students were selected during a competition, with prizes such as 1 million FCFA and a new computer being awarded to the winners.</p>
+                                    <p>Role: Teacher and Organizer</p>
+                                    <p>Technologies involved: Java EE</p>
+                                    </li> 
+
+                                <li>
+                                  <h3>Configuration of Server using SSH</h3>
+
+                                  <p>Description: This project involved configuring a remote Linux server via SSH in order to deploy an application or security tools. The following Linux tools were used:</p>
+                                    <ul>
+                                    <li>SSH (Secure Shell)</li>
+                                    <li>Text editor (e.g. nano, vim, emacs)</li>
+                                    <li>Package manager (e.g. apt, yum, pacman)</li>
+                                    <li>Firewall (e.g. iptables, ufw)</li>
+                                    <li>SSH key generator</li>
+                                    <li>rsync (remote file transfer)</li>
+                                    <li>tmux (terminal multiplexer)</li>
+                                    <li>htop (system monitoring)</li>
+                                    <li>fail2ban (intrusion prevention)</li>
+                                    </ul>
+                                    
+                                   
+                                </li> 
+                                <li>
+                                   <h3>DNS and SMTP Configuration</h3>
+                                    <p>Description: This project involved configuring DNS and SMTP while deploying a website on a hosting platform such as Siteground or Namecheap and using a service such as Cloudflare. The following tools were used:</p>
+                                    <ul>
+                                    <li>Domain registrar (e.g. Namecheap, GoDaddy)</li>
+                                    <li>Hosting provider (e.g. Siteground, Bluehost)</li>
+                                    <li>Cloudflare (DNS management and CDN)</li>
+                                    <li>SMTP server software (e.g. Postfix, Sendmail)</li>
+                                    <li>Mail client (e.g. Thunderbird, Outlook)</li>
+                                    <li>Text editor (e.g. nano, vim, emacs)</li>
+                                    </ul>
+                                </li>
                             </ul>
 
                             <span>
@@ -882,7 +937,7 @@ include 'visitor.php';
                         <p>In my free time, I enjoy exploring new technologies, contributing to open-source projects, and sharing my knowledge through online communities and forums. I am always looking for new challenges and opportunities to grow my skills and make a positive impact in the tech industry.</p>
                         <p>My biggest dream is to be admitted to a master's degree program in computer science in Switzerland and gain valuable experience working alongside professors such as <b>Prof. Dr. Michel Rothlin, Meier René, Prof. Dr. Gregor Burkhard, and Koller Thomas</b>.</p>
                         <a href="mailto:contact@gobi-abyssinie.tech">👉 Send me message</a>
-                        <a style="display: nonse;" onclick="openimg()">👉 Checkout some of my work</a>
+                        <a style="display: nonse;" onclick="openimg()">👉 Don't miss to see my works</a>
 
                         <h1>Don't miss to read my personal statement!</h1>
 
@@ -897,11 +952,11 @@ include 'visitor.php';
                         <p>Aside from my technical skills, I possess excellent soft skills such as teamwork, problem-solving, time management, event management, public speaking, multitasking, organization, and teaching, which have enabled me to work effectively with clients, collaborate with team members, and manage multiple projects simultaneously.</p>
                         <p>I am also fluent in several languages, including French, English, Esperanto, Adja, and Fon, and enjoy volunteering my time to help promote the dissemination of Esperanto in African countries.</p>
                         <p>Overall, my passion for technology and my commitment to providing innovative solutions make me a valuable asset to any team, and I look forward to contributing my skills and expertise to new and exciting projects in the future.</p>
-
+                         <h1>Domain of interest</h1>
                         <div>
                             <img style="width: 100%; height:100%" src="d12047a6-77d4-4c71-a1cf-3ccc9165942f.jpg" alt="" srcset="">
                         </div>
-                        <a style="display: nonse;" onclick="openimg()">👉 Check out my realization here.</a>
+                        <a style="display: nonse;" onclick="openimg()">👉 Don't miss my realization here.</a>
 
                     </div>
                 </div>
