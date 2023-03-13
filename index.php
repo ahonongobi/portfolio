@@ -528,6 +528,19 @@ include 'visitor.php';
 
                                 
                             </ul> 
+                            <h2>IA Projects</h2>
+
+                            <ul>
+                            <li>
+                            <h3>Name: Chatbot using JavaScript/Alpine.js</h3>
+                              <p>Description: This is a personal project. An interactive chatbot based on the basics of artificial intelligence to provide conversational responses. This chatbot is currently under development and is not yet very advanced, as I am still working on collecting data and reformatting it using natural language processing tools such as Python's NLTK or Stanford's CoreNLP.</p> 
+                                    
+            
+                                    <p>URL: <a target="_blank" href="https://bot.gobi-abyssinie.tech/">https://bot.gobi-abyssinie.tech</a></p>
+                                </li> 
+                            </ul>
+
+
                             <h2>Esperanto related project</h2>
                             <ul>
                             <li>
