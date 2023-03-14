@@ -544,7 +544,7 @@ include 'visitor.php';
                               <p>Description: This is a personal project. An interactive chatbot based on the basics of artificial intelligence to provide conversational responses. This chatbot is currently under development and is not yet very advanced, as I am still working on collecting data and reformatting it using natural language processing tools such as Python's NLTK or Stanford's CoreNLP.</p> 
                                     
             
-                                    <p>URL: <a target="_blank" href="https://bot.gobi-abyssinie.tech/">https://bot.gobi-abyssinie.tech</a></p>
+                               <p>URL: <a target="_blank" href="https://bot.gobi-abyssinie.tech/">https://bot.gobi-abyssinie.tech</a></p>
                             </li> 
                             </ul>
 
@@ -559,7 +559,7 @@ include 'visitor.php';
                                     <p>URL: <a target="_blank" href="https://esperanto-centroj.com/">https://esperanto-centroj.com</a></p>
                                 </li> 
                             </ul>
-                            <h2>Mes contributions open source</h2>
+                            <h2>My open source contributions</h2>
                             <ul>
                                 <li>
                                     <h3>Name: Flutter Fr space </h3>
@@ -570,16 +570,7 @@ include 'visitor.php';
                                 </li> 
 
                                 <li>
-                                    <h3>Project of Code</h3>
-                                    <p>Description: This project was initiated by me as CTO and G. Lewis, CEO at INTELLIGENCIA SI. The goal of the project was to introduce high school and college students in Benin to technology, specifically programming. Students who met the following requirements were eligible to participate:</p>
-                                    <ul>
-                                        <li>Must be in 2nd, 1st or Tle</li>
-                                        <li>Must be in the top 10 of their class</li>
-                                    </ul>
-                                    <p>At the end of the project, the best students were selected during a competition, with prizes such as 1 million FCFA and a new computer being awarded to the winners and so others prizes.</p>
-                                    <p>Role: Teacher and Organizer</p>
-                                    <p>Technologies involved: Java EE</p>
-                                    </li> <li>
+                                    
                                     <h3>Project of Code</h3>
                                     <p>Description: This project was initiated by me as CTO and G. Lewis, CEO at INTELLIGENCIA SI. The goal of the project was to introduce high school and college students in Benin to technology, specifically programming. Students who met the following requirements were eligible to participate:</p>
                                     <ul>
