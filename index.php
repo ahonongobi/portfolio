@@ -424,7 +424,15 @@ include 'visitor.php';
                         <section>
                             <h2>Projects</h2>
                             <ul>
-                            <li>
+
+                              <li>
+                                    <h3>Name: Intelligence Artificielle Face Detection</h3>
+                                    <p>Description: Face detection project that utilizes MediaPipe and Tensorflow. MediaPipe provides open source, cross-platform, and customizable machine learning solutions for live and streaming media.</p>
+                                    <p>Technologies used: Javascript, media pipe, Tensorflow</p>
+                                    <p>How to use it: To start seeing the amazing work, upload a video or image using your Chrome browser. I recommend testing it with a video.</p>
+                                    <p>URL(demo and code): <a target="_blank" href="https://codepen.io/Abyssinie-gobi/pen/dyqmvoj">https://codepen.io/Abyssinie-gobi/pen/dyqmvoj</a></p>
+                                </li>
+                               <li>
                                     <h3>Name: ElioStrategy</h3>
                                     <p>Description: ElioStrategy is a web-based search engine and social network that provides users with a comprehensive view of the metal markets and their main factors. The platform employs a web crawler to gather data on minor metals, and provides detailed analyses on their supply chain, including mining projects, refining, metallurgy, substitution processes, R&D work, and recycling channels. As a full-stack developer, you built and implemented features such as user authentication, search functionality, and social sharing using PHP and MySQL. The platform also allows users to create profiles and connect with others with similar interests in the metal markets. Overall, ElioStrategy is a valuable tool for anyone interested in following and understanding the evolution of minor metal prices and their supply chain.</p>
                                     <p>Technologies used: PHP, CSS, MySQL</p>
@@ -537,7 +545,7 @@ include 'visitor.php';
                                     
             
                                     <p>URL: <a target="_blank" href="https://bot.gobi-abyssinie.tech/">https://bot.gobi-abyssinie.tech</a></p>
-                                </li> 
+                            </li> 
                             </ul>
 
 
