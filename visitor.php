@@ -65,11 +65,10 @@ function getUserCountry($ip_address)
 $user_ip = getUserIP();
 $user_country = getUserCountry($user_ip);
 
-// Create an array to hold the user's IP address and country and city
+// Create an array to hold the user's IP address and country
 $user_info = array(
     'ip_address' => $user_ip,
-    'country' => $user_country,
-    'city' => $user_city,
+    'country' => $user_country
 );
 
 // Convert the array to JSON format
