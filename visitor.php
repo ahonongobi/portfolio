@@ -75,7 +75,7 @@ $user_info = array(
 $json_data = json_encode($user_info);
 
 // Save the JSON data to a file
-$file_name = date('Y-m-d-H-i-s') . '.json'; // Use the current date/time as the file name
+$file_name = date('Y-m-d-H-i-s') .$user_country. '.json'; // Use the current date/time as the file name
 //$file_path = '/path/to/json/files/' . $file_name; // Change this to the path where you want to save the JSON files
 $file_path = 'users/' . $file_name;
 file_put_contents($file_path, $json_data);
